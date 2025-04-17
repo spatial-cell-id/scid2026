@@ -231,8 +231,6 @@ params:
             callToAction:
                 eventbrite:
                     eventId: 976108886957
-                other:
-                    secondaryUrl: https://www.media-lesson.com/
             socialLinks:
                 xUrl: https://x.com/medialesson
                 facebookUrl: https://www.facebook.com/medialesson/
