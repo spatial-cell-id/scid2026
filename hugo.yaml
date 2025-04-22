@@ -102,6 +102,8 @@ languages:
 
                         ### Additional Info
                         - We bring together diverse expertise and innovation.
+                    callToActionSecondary:
+                      label: Become a Speaker!
 
     de:
         disabled: false
@@ -207,6 +209,8 @@ languages:
 
                         ### Zusätzliche Informationen
                         - Wir vereinen vielfältige Expertise und Innovation.
+                    callToActionSecondary:
+                      label: Sprecher:in werden!
 
 params:
     # Open Graph / X (Twitter) Cards
@@ -231,8 +235,8 @@ params:
             callToAction:
                 eventbrite:
                     eventId: 976108886957
-                other:
-                    secondaryUrl: https://sessionize.com/lukasconf
+            callToActionSecondary:
+                url: https://sessionize.com/lukasconf
             socialLinks:
                 xUrl: https://x.com/medialesson
                 facebookUrl: https://www.facebook.com/medialesson/
