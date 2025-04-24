@@ -261,3 +261,4 @@ params:
                 primary: '#0d81be'
                 primaryDarker: '#143e8b'
                 track: '#15B8CA'
+            redirectBasedOnBrowserLang: true
