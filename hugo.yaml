@@ -1,4 +1,4 @@
-theme: event
+baseURL: "https://spatial-cell-id.github.io/scid2026/"
 
 defaultContentLanguage: de
 languages:
