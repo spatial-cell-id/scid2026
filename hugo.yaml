@@ -1,6 +1,8 @@
 baseURL: "https://spatial-cell-id.github.io/scid2026/"
 title: "Spatial Cell ID 2026"
-theme: "github.com/medialesson/hugo-theme-event"
+
+# Rimuovi la riga theme: "event" o simili
+# Usiamo solo il blocco module
 
 module:
   imports:
