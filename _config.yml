@@ -78,12 +78,9 @@ defaults:
 footer:
   hide_powered_by: true # Questo toglie "Powered by Jekyll & Minimal Mistakes"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/spatial-cell-id"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:scid2026@sciencesconf.org"
+
+copyright: "© 2026 Spatial-Cell-ID"
+
 
 # Feed Settings
 atom_feed:

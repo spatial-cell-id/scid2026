@@ -12,9 +12,6 @@ header:
 excerpt: |
   <span style="color: white;">**13-18 September 2026**</span><br />
   <span style="color: white;">**Aussois, France**</span>
-  ** Using Spatial OMICs to uncover cell identity during developmental processes **
 ---
 
-# Welcome to the First Spatial-Cell-ID Summer School
-
-Lorem Ipsum
+# Using Spatial OMICs to uncover cell identity during developmental processes
