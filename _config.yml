@@ -6,9 +6,9 @@ minimal_mistakes_skin    : "air" #
 locale                   : "en-US"
 title                    : "SCID 2026"
 title_separator          : "-"
-subtitle                 : "First Spatial-Cell-ID Conference"
+subtitle                 : "First Spatial-Cell-ID Summer School"
 name                     : "SCID 2026"
-description              : "First Spatial-Cell-ID - Workshop on Spatial Bioinformatics"
+description              : "First Spatial-Cell-ID Summer Schools"
 
 url                      : "https://spatial-cell-id.github.io" 
 baseurl                  : "/scid2026" 
@@ -76,12 +76,12 @@ defaults:
 
 # Site Footer
 footer:
-  hide_powered_by: true # Questo toglie "Powered by Jekyll & Minimal Mistakes"
+  hide_powered_by: true 
   links:
 
-copyright: "© 2026 Spatial-Cell-ID"
+copyright: 
 
 
 # Feed Settings
 atom_feed:
-  hide: true # Questo toglie il tasto "Follow: Feed"
+  hide: true 
