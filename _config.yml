@@ -77,10 +77,9 @@ defaults:
 # Site Footer
 footer:
   hide_powered_by: true 
-  links:
+  links: []
 
-copyright: 
-
+# copyright: []
 
 # Feed Settings
 atom_feed:
