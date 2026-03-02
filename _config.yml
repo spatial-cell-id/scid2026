@@ -73,3 +73,18 @@ defaults:
       read_time: false # Inutile per un sito di conferenza
       share: true
       related: true
+
+# Site Footer
+footer:
+  hide_powered_by: true # Questo toglie "Powered by Jekyll & Minimal Mistakes"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/spatial-cell-id"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:scid2026@sciencesconf.org"
+
+# Feed Settings
+atom_feed:
+  hide: true # Questo toglie il tasto "Follow: Feed"

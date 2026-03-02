@@ -9,12 +9,12 @@ header:
       url: "https://scid2026.sciencesconf.org/registration"
     - label: "Program"
       url: "https://scid2026.sciencesconf.org/submission"
-excerpt: >
-  ## 13-18 September 2026 <br />
-  ## Aussois, France <br />
-  **First Spatial-Cell-ID Summer School**
+excerpt: |
+  <span style="color: white;">**13-18 September 2026**</span><br />
+  <span style="color: white;">**Aussois, France**</span>
+  ** Using Spatial OMICs to uncover cell identity during developmental processes **
 ---
 
-# Welcome to SCID 2026
+# Welcome to the First Spatial-Cell-ID Summer School
 
 Lorem Ipsum
