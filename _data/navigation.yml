@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "General info"
-    url: /general_info/
+  - title: "Spatial-Cell-ID"
+    url: "https://spatial-cell-id.ens-lyon.fr/"
   - title: "Program"
     url: /program/
   - title: "Registration"

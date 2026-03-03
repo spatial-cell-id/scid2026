@@ -15,7 +15,7 @@ baseurl                  : "/scid2026"
 
 repository               : "spatial-cell-id/scid2026"
 teaser                   : # path di un'immagine (es: /assets/images/teaser.jpg)
-logo                     : "/assets/images/scid_logo.jpg"
+logo                     : # "/assets/images/scid_logo.jpg"
 masthead_title           : "SCID 2026"
 breadcrumbs              : true # Aiuta la navigazione nelle sottopagine
 
