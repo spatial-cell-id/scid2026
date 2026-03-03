@@ -79,7 +79,7 @@ footer:
   hide_powered_by: true 
   links: []
 
-# copyright: []
+copyright: " "
 
 # Feed Settings
 atom_feed:
