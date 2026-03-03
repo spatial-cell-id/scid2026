@@ -1,12 +1,18 @@
 # main links
 main:
   - title: "General info"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /general_info/
   - title: "Program"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /program/
   - title: "Registration"
-    url: /year-archive/
+    url: /registration/
   - title: "Venue"
-    url: /collection-archive/
+    url: /venue/
   - title: "Contacts"
-    url: /sitemap/
+    url: /contacts/
+#  - title: "Attend" # Questo sarà il nome del menu a tendina
+    #children:
+    #  - title: "Registration"
+    #    url: "https://scid2026.sciencesconf.org/registration"
+    #  - title: "Abstract Submission"
+    #    url: "https://scid2026.sciencesconf.org/submission"
