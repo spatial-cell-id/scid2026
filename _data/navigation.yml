@@ -1,6 +1,11 @@
 # main links
 main:
-  - title: "Spatial-Cell-ID"
+  - title: "Speakers"
+  children:
+    - title: "Lectures"
+      url: /speakers_lectures/
+    - title: "Workshops"
+      url: /speakers_workshops/
     url: "https://spatial-cell-id.ens-lyon.fr/"
   - title: "Program"
     url: /program/
@@ -8,6 +13,8 @@ main:
     url: /registration/
   - title: "Venue"
     url: /venue/
+  - title: "Organizing Committee"
+    url: /organizing_committee/
   - title: "Contacts"
     url: /contacts/
 #  - title: "Attend" # Questo sarà il nome del menu a tendina
