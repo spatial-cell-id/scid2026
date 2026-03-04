@@ -1,12 +1,7 @@
 # main links
 main:
   - title: "Speakers"
-    url: "#"
-    children:
-      - title: "Lectures"
-        url: /speakers_lectures/
-      - title: "Workshops"
-        url: /speakers_workshops/
+    url: /speakers/
   - title: "Program"
     url: /program/
   - title: "Registration"
