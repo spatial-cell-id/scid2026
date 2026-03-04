@@ -15,3 +15,10 @@ excerpt: |
 ---
 
 # Using Spatial OMICs to uncover cell identity during developmental processes
+This Summer School is designed to train students and researchers in the rapidly expanding field of Spatial OMICs. Beyond traditional transcriptomics, and through a blend of experimental insights and advanced data analysis, participants will learn to navigate and answer fundamental biological and computationally-related questions.
+
+- Who should attend: The program is open to all PhD students, researchers, and engineers eager to master spatially resolved technologies.
+
+- Exclusive Benefit: Registration is free of charge for all CNRS employees.
+
+- Limited Capacity: To ensure a high-quality, hands-on experience, there are only 50 spots available.

@@ -16,7 +16,7 @@ main:
     url: /organizing_committee/
   - title: "Contacts"
     url: /contacts/
-  - title: "Attend" # Questo sarà il nome del menu a tendina
+  #- title: "Attend" # Questo sarà il nome del menu a tendina
     #children:
     #  - title: "Registration"
     #    url: "https://scid2026.sciencesconf.org/registration"
