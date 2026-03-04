@@ -48,5 +48,5 @@ This Summer School is designed to train students and researchers in the rapidly 
 </style>
 
 <div class="sponsor-banner-full">
-  <img src="/assets/images/sponsors.png" alt="Sponsors SCID 2026">
+  <img src="{{ site.baseurl }}/assets/images/sponsors.png" alt="Sponsors SCID 2026">
 </div>
