@@ -17,11 +17,6 @@ excerpt: |
   <span style="color: white;">**Aussois, France**</span>
 
 
-feature_row:
-  - image_path: /assets/images/sponsors.png
-    alt: "Sponsors"
-    title: " "
-    excerpt: " "
 ---
 
 This Summer School is designed to train students and researchers in the rapidly expanding field of Spatial OMICs. Beyond traditional transcriptomics, and through a blend of experimental insights and advanced data analysis, participants will learn to navigate and answer fundamental biological and computationally-related questions.
@@ -32,4 +27,26 @@ This Summer School is designed to train students and researchers in the rapidly 
 
 - Limited Capacity: To ensure a high-quality, hands-on experience, there are only 50 spots available.
 
-{% include feature_row %}
+
+
+<style>
+  /* Contenitore del banner */
+  .sponsor-banner-full {
+    width: 100%;
+    margin-top: 50px; /* Spazio per staccarlo dal testo sopra */
+    margin-bottom: 50px;
+  }
+  
+  /* Stile dell'immagine per forzarla a tutto schermo e togliere la riga */
+  .sponsor-banner-full img {
+    width: 100%; /* Forza l'immagine a riempire tutto il container */
+    height: auto;
+    border: none !important; /* Rimuove il bordo/riga grigia */
+    box-shadow: none !important; /* Rimuove eventuali ombreggiature di default del tema */
+    display: block;
+  }
+</style>
+
+<div class="sponsor-banner-full">
+  <img src="/assets/images/sponsors.png" alt="Sponsors SCID 2026">
+</div>
