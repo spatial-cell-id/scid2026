@@ -3,6 +3,7 @@ layout: splash
 title: " "
 author_profile: false 
 header:
+  title: "Using Spatial OMICs to uncover cell identity during developmental processes"
   overlay_image: /assets/images/aussois-hero.jpg
   overlay_filter: 0.5 # Scurisce leggermente l'immagine (0.1 a 1.0) per far leggere meglio il testo bianco
   #actions:
@@ -18,19 +19,18 @@ excerpt: |
 feature_row:
   - image_path: /assets/images/LOGO_CNRS_BLEU.png
     alt: "Sponsor 1"
-    title: "CNRS"
+    title: " "
     excerpt: " "
   - image_path: /assets/images/logo_cecam.png
     alt: "Sponsor 2"
-    title: "CECAM"
+    title: " "
     excerpt: " "
   - image_path: /assets/images/scid_logo.jpg
     alt: "Sponsor 3"
-    title: "Spatial-Cell-ID"
+    title: " "
     excerpt: " "
 ---
 
-# Using Spatial OMICs to uncover cell identity during developmental processes
 This Summer School is designed to train students and researchers in the rapidly expanding field of Spatial OMICs. Beyond traditional transcriptomics, and through a blend of experimental insights and advanced data analysis, participants will learn to navigate and answer fundamental biological and computationally-related questions.
 
 - Who should attend: The program is open to all PhD students, researchers, and engineers eager to master spatially resolved technologies.
