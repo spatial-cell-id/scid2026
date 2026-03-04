@@ -2,7 +2,6 @@
 layout: splash
 author_profile: false 
 header:
-  title: "Using Spatial OMICs to uncover cell identity during developmental processes"
   overlay_image: /assets/images/aussois-hero.jpg
   overlay_filter: 0.5 # Scurisce leggermente l'immagine (0.1 a 1.0) per far leggere meglio il testo bianco
   #actions:
@@ -29,6 +28,7 @@ feature_row:
     title: " "
     excerpt: " "
 ---
+# Using Spatial OMICs to uncover cell identity during developmental processes
 
 This Summer School is designed to train students and researchers in the rapidly expanding field of Spatial OMICs. Beyond traditional transcriptomics, and through a blend of experimental insights and advanced data analysis, participants will learn to navigate and answer fundamental biological and computationally-related questions.
 
