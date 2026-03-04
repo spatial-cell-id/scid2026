@@ -5,7 +5,6 @@ permalink: /speakers/
 ---
 
 <style>
-  /* Regole per la griglia a 3 colonne */
   .speaker-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 colonne di uguale larghezza */
@@ -13,7 +12,6 @@ permalink: /speakers/
     margin-bottom: 40px;
   }
   
-  /* Stile per il singolo speaker */
   .speaker-card {
     text-align: center;
     background: #ffffff; /* Sfondo bianco opzionale */
@@ -33,7 +31,6 @@ permalink: /speakers/
     font-size: 1.2em;
   }
 
-  /* Rende il bottone dell'abstract carino */
   .speaker-card details {
     text-align: left;
     background: #f8f9fa;
@@ -65,29 +62,29 @@ permalink: /speakers/
 
   <div class="speaker-card">
     <img src="/assets/images/speaker1.png" alt="Jane Doe">
-    <h3>Dr.ssa Jane Doe</h3>
-    <p><em>Titolo dell'intervento</em></p>
+    <h3>Dr. Jane Doe</h3>
+    <p><em>Lecture title</em></p>
     <details>
-      <summary>Leggi l'Abstract</summary>
-      <p>Questo è il testo dell'abstract della Dr.ssa Doe. Puoi inserire qui tutta la descrizione del suo talk sulle Spatial OMICs.</p>
+      <summary>Abstract</summary>
+      <p>Test text </p>
     </details>
   </div>
   <div class="speaker-card">
-    <img src="/assets/images/speaker2.png" alt="Mario Rossi">
-    <h3>Prof. Mario Rossi</h3>
-    <p><em>Titolo dell'intervento</em></p>
+    <img src="/assets/images/speaker2.png" alt="Jon Doe">
+    <h3>Prof. Jon Doe</h3>
+    <p><em>Title</em></p>
     <details>
-      <summary>Leggi l'Abstract</summary>
-      <p>Testo dell'abstract del Prof. Rossi. Più è lungo, più il riquadro si espanderà verso il basso spingendo i contenuti.</p>
+      <summary>Abstract</summary>
+      <p>Test text</p>
     </details>
   </div>
   <div class="speaker-card">
     <img src="/assets/images/speaker3.png" alt="Anna Bianchi">
-    <h3>Dr.ssa Anna Bianchi</h3>
-    <p><em>Titolo dell'intervento</em></p>
+    <h3>Dr. Anne White</h3>
+    <p><em>Title</em></p>
     <details>
-      <summary>Leggi l'Abstract</summary>
-      <p>Abstract della Dr.ssa Bianchi.</p>
+      <summary>Abstract</summary>
+      <p>Test text.</p>
     </details>
   </div>
   </div>
@@ -100,10 +97,10 @@ permalink: /speakers/
   <div class="speaker-card">
     <img src="/assets/images/speaker4.png" alt="John Smith">
     <h3>Prof. John Smith</h3>
-    <p><em>Titolo del Workshop</em></p>
+    <p><em>Title</em></p>
     <details>
-      <summary>Leggi l'Abstract</summary>
-      <p>Testo dell'abstract del workshop pratico.</p>
+      <summary>Abstract</summary>
+      <p>Test text.</p>
     </details>
   </div>
   </div>
