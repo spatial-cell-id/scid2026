@@ -17,27 +17,6 @@ excerpt: |
   <span style="color: white;">**Aussois, France**</span>
 
 
-<style>
-  /* Centers the entire feature row */
-  .feature__item {
-    text-align: center !important;
-    vertical-align: middle !important;
-  }
-
-  /* Target the first image specifically to make it smaller */
-  .feature__item:nth-child(1) .feature__item-teaser img {
-    max-width: 150px; /* Adjust this value as needed */
-    margin: 0 auto;
-  }
-
-  /* Optional: Ensure all images are vertically aligned if they have different heights */
-  .feature__wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-
 feature_row:
   - image_path: /assets/images/LOGO_CNRS_BLEU.png
     alt: "Sponsor 1"
