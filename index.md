@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: " "
 author_profile: false 
 header:
   overlay_image: /assets/images/aussois-hero.jpg
@@ -12,6 +13,21 @@ header:
 excerpt: |
   <span style="color: white;">**13-18 September 2026**</span><br />
   <span style="color: white;">**Aussois, France**</span>
+
+
+feature_row:
+  - image_path: /assets/images/LOGO_CNRS_BLEU.png
+    alt: "Sponsor 1"
+    title: "CNRS"
+    excerpt: " "
+  - image_path: /assets/images/logo_cecam.png
+    alt: "Sponsor 2"
+    title: "CECAM"
+    excerpt: " "
+  - image_path: /assets/images/scid_logo.jpg
+    alt: "Sponsor 3"
+    title: "Spatial-Cell-ID"
+    excerpt: " "
 ---
 
 # Using Spatial OMICs to uncover cell identity during developmental processes
@@ -22,3 +38,5 @@ This Summer School is designed to train students and researchers in the rapidly 
 - Exclusive Benefit: Registration is free of charge for all CNRS employees.
 
 - Limited Capacity: To ensure a high-quality, hands-on experience, there are only 50 spots available.
+
+{% include feature_row %}
