@@ -18,16 +18,8 @@ excerpt: |
 
 
 feature_row:
-  - image_path: /assets/images/LOGO_CNRS_BLEU.png
-    alt: "Sponsor 1"
-    title: " "
-    excerpt: " "
-  - image_path: /assets/images/logo_cecam.png
-    alt: "Sponsor 2"
-    title: " "
-    excerpt: " "
-  - image_path: /assets/images/scid_logo.png
-    alt: "Sponsor 3"
+  - image_path: /assets/images/sponsors.png
+    alt: "Sponsors"
     title: " "
     excerpt: " "
 ---
