@@ -10,8 +10,7 @@ header:
   #  - label: "Program"
   #    url: "https://scid2026.sciencesconf.org/submission"
 excerpt: |
-  <span style="color: white; font-size: 2em; font-weight: bold; display: block;">Using Spatial OMICs to uncover cell identity</span>
-  <span style="color: white; font-size: 2em; font-weight: bold; display: block;">during developmental processes</span>
+  <span style="color: white; font-size: 2em; font-weight: bold; display: block;">Using Spatial OMICs to uncover cell identity during developmental processes</span>
   <span style="color: white;">**13-18 September 2026**</span><br />
   <span style="color: white;">**Aussois, France**</span>
 
