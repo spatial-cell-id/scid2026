@@ -1,9 +1,11 @@
 ---
 layout: splash
+title: " "
 author_profile: false 
 header:
   overlay_image: /assets/images/aussois-hero.jpg
   overlay_filter: 0.5 # Scurisce leggermente l'immagine (0.1 a 1.0) per far leggere meglio il testo bianco
+  title: " " 
   #actions:
   #  - label: "Register Now"
   #    url: "https://scid2026.sciencesconf.org/registration"
