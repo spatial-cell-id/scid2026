@@ -18,4 +18,4 @@ Payment instructions (including options for 'bon de commande' for French institu
 ### Ready to Register?
 Click the button below to be redirected to our official registration portal.
 
-[Go to Registration Platform](https://scid2026.sciencesconf.org/registration){: .btn .btn--primary .btn--large}
+[Go to Registration Platform](/registration_form.md){: .btn .btn--primary .btn--large}
