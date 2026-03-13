@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Speakers"
-    url: /speakers/
+    url: /speakers_/
   - title: "Program"
-    url: /program/
+    url: /program_/
   - title: "Registration"
     url: /registration_/
   - title: "Venue"

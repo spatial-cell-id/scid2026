@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Registration & Fees"
-permalink: /registration/
+permalink: /registration_/
 ---
 Only **50 places** are available for the Summer School.
 Applications are open from **April 1st to May 31st, 2026**.
