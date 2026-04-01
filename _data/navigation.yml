@@ -5,7 +5,7 @@ main:
   - title: "Program"
     url: /program_/
   - title: "Registration"
-    url: /registration_/
+    url: /registration/
   - title: "Venue"
     url: /venue/
   - title: "Organizing Committee"

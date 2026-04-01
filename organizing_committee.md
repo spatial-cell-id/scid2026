@@ -12,4 +12,5 @@ permalink: /organizing_committee/
 * **Guillaume Marcy** – Labex CORTEX, Université Claude Bernard Lyon 1
 * **Sophie Pantalacci** – LBMC (Laboratoire de Biologie et Modélisation de la Cellule), CNRS
 * **Sergio Sarnataro** – IGFL (Institut de Génomique Fonctionnelle de Lyon), ENS de Lyon
+* **Marco Uderzo** – IGFL (Institut de Génomique Fonctionnelle de Lyon), CNRS
 * **Teva Vernoux** – RDP (Reproduction et Développement des Plantes), CNRS
