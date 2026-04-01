@@ -15,8 +15,6 @@ permalink: /speakers_/
 
 - Yad Ghavi-Helm (IGFL, Lyon)
 
-- Florian Muller (Institut Pasteur, Paris)
-
 - Hilde Nelissen (Ghent University, Belgique)
 
 - Marcelo Nollmann (CBS Montpellier)
