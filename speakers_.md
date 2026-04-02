@@ -38,11 +38,15 @@ permalink: /speakers_/
 
 - Jennifer Love (IGFL, Lyon)
 
+- Anthony Ozier-Lafontaine (Institut Pasteur, Paris)
+
 - Dario Righelli (University of Naples, Italy)
 
 - Sergio Marco Salas, (Helmholtz Munich)
 
 - Nadav Yayon (University of Cambridge)
+
+
 
 
 
