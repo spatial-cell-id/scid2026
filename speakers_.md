@@ -32,8 +32,6 @@ permalink: /speakers_/
 
 - Quentin Blampey (Centrale Paris)
 
-- Mathilde Bouchet (IGFL, Lyon)
-
 - Helena L. Crowell (CNAG, Barcellona)
 
 - Jennifer Love (IGFL, Lyon)
