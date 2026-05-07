@@ -6,7 +6,7 @@ permalink: /registration/
 Only **50 places** are available for the Summer School.
 Applications are open from **April 1st to May 31st, 2026**.
 
-Applicants must submit a **motivation letter** and may also include a **poster abstract** if they wish to present a poster.
+Applicants must submit a **motivation letter** (2 pages maximum, PDF format) and may also include a **poster abstract** (250 words maximum, PDF format) if they wish to present a poster.
 
 
 ### Registration Fees
