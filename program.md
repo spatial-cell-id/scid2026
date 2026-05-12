@@ -22,9 +22,9 @@ author_profile: true
 - **15:30 – 15:45** | Coffee Break
 - **15:45 – 18:45** | **Workshop Session A (Parallel)**
 
-    - WS 1: Quentin Blampey: Deep learning and computational methods for spatial data analysis
-    - WS 2: Jennifer Love: Combining RNA and DNA FISH: a case study
-    
+    - ##### WS 1: Quentin Blampey: Deep learning and computational methods for spatial data analysis
+    - ##### WS 2: Jennifer Love: Combining RNA and DNA FISH: a case study
+
 - **19:30 – 20:30** | Dinner
 - **20:30 – 22:30** | Poster Session I & Participant Flash Talks
 - **22:30 – 00:00** | Drinks
