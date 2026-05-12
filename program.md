@@ -21,8 +21,10 @@ author_profile: true
 - **14:00 – 15:30** | **Round Table with Experts / Q&A / Bring Your Own Data**
 - **15:30 – 15:45** | Coffee Break
 - **15:45 – 18:45** | **Workshop Session A (Parallel)**
+
     - WS 1: Quentin Blampey: Deep learning and computational methods for spatial data analysis
     - WS 2: Jennifer Love: Combining RNA and DNA FISH: a case study
+    
 - **19:30 – 20:30** | Dinner
 - **20:30 – 22:30** | Poster Session I & Participant Flash Talks
 - **22:30 – 00:00** | Drinks
@@ -37,8 +39,8 @@ author_profile: true
 - **14:00 – 15:30** | **Round Table with Experts / Q&A / Bring Your Own Data**
 - **15:30 – 15:45** | Coffee Break
 - **15:45 – 18:45** | **Workshop Session B (Parallel)**
-    - WS 3: Nadav Yayon: Harnessing morphological information for spatial biology analysis
-    - WS 4: Dario Righelli: SpatialExperiment: infrastructure in R using Bioconductor
+    WS 3: Nadav Yayon: Harnessing morphological information for spatial biology analysis
+    WS 4: Dario Righelli: SpatialExperiment: infrastructure in R using Bioconductor
 - **19:30 – 20:30** | Dinner
 - **20:30 – 22:30** | Poster Session II & Participant Flash Talks
 - **22:30 – 00:00** | Drinks
@@ -52,8 +54,8 @@ author_profile: true
 - **14:00 – 15:30** | **Round Table with Experts / Q&A / Bring Your Own Data**
 - **15:30 – 15:45** | Coffee Break
 - **15:45 – 18:45** | **Workshop Session C (Parallel)**
-    - WS 5: Helena Cornwell: Title TBD
-    - WS 6: Sergio Salas: Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data
+    WS 5: Helena Cornwell: Title TBD
+    WS 6: Sergio Salas: Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data
 - **19:30 – 20:30** | Dinner
 - **20:30 – 22:00** | **Lecture 8** – **Marcelo Nollman**: Title TBD
 - **22:00 – 00:00** | Drinks
@@ -67,8 +69,8 @@ author_profile: true
 - **14:00 – 15:30** | **Round Table with Experts / Q&A / Bring Your Own Data**
 - **15:30 – 15:45** | Coffee Break
 - **15:45 – 18:45** | **Workshop Session D (Parallel)**
-    - WS 7: Laura Cantini: STORIES: Cell trajectory inference in spatial transcriptomics**
-    - WS 8: Hugo Blanc: Title TBD
+    WS 7: Laura Cantini: STORIES: Cell trajectory inference in spatial transcriptomics
+    WS 8: Hugo Blanc: Title TBD
 - **19:30 – 00:00** | Gala Dinner and Party
 
 ## Friday, September 18th
