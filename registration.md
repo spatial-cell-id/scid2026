@@ -12,7 +12,7 @@ Applicants must submit a **motivation letter** (2 pages maximum, PDF format) and
 ### Registration Fees
 The registration fee includes access to all scientific sessions, hands-on tutorials, accommodation at the Centre Paul Langevin, and all meals (breakfast, lunch, dinner, and coffee breaks) for the duration of the school.
 
-**Registration is free for all CNRS agents.**
+**Registration is free for all CNRS agents (included PhD students and Post-Docs).**
 
 For non CNRS agents:
 * **Academic / Public Research:** 550 €

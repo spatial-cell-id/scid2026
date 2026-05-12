@@ -23,7 +23,7 @@ This Summer School is designed to train students and researchers in the rapidly 
 
 - Who should attend: The program is open to all PhD students, researchers, and engineers eager to master spatially resolved technologies.
 
-- Exclusive Benefit: Registration is free of charge for all CNRS employees.
+- Exclusive Benefit: Registration is free of charge for all CNRS employees (included PhD students and Post-Docs).
 
 - Limited Capacity: To ensure a high-quality, hands-on experience, there are only 50 spots available.
 
