@@ -7,7 +7,6 @@ author_profile: true
 
 SCID 2026 is built around collaborative learning. Our "Round Table with Experts / Q&A / Bring Your Own Data" sessions are your chance to share your own data with bioinformatician with extensive experience in spatial transcriptomics. These sessions are designed for open discussion, where you can get feedback, troubleshoot analysis errors, and solve the practical problems of spatial transcriptomics data analysis.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
