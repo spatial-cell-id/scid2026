@@ -25,6 +25,8 @@ permalink: /speakers_/
 
 - Ahilya Sawh (University of Toronto, Canada)
 
+- Thomas Walter (Istitut Curie, Paris) 
+
 - Teva Vernoux (RDP, Lyon)
 
 ### Confirmed speakers - Workshops
