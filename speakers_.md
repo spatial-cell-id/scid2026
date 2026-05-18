@@ -23,11 +23,11 @@ permalink: /speakers_/
 
 - Anna Pascual (Centre Nacional d'Anàlisi Genòmica, Espagne)
 
-- Ahilya Sawh (University of Toronto, Canada)
-
-- Thomas Walter (Istitut Curie, Paris) 
+- Ahilya Sawh (University of Toronto, Canada) 
 
 - Teva Vernoux (RDP, Lyon)
+
+- Thomas Walter (Istitut Curie, Paris)
 
 ### Confirmed speakers - Workshops
 - Hugo Blanc (IGFL, Lyon)
