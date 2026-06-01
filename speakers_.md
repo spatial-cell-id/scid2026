@@ -40,7 +40,7 @@ permalink: /speakers_/
 
 - Anthony Ozier-Lafontaine (Institut Pasteur, Paris)
 
-- Dario Righelli (University of Naples, Italy)
+- Dario Righelli (University of Padua, Italy)
 
 - Sergio Marco Salas, (Helmholtz Munich)
 
