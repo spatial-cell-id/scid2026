@@ -8,7 +8,7 @@ Only **50 places** are available for the Summer School.
 
 **EXTENDED DEADLINE: June 15th, 2026**.
 
-Applicants must submit a **motivation letter** (2 pages maximum, PDF format) and may also include a **poster abstract** (250 words maximum, PDF format) if they wish to present a poster.
+Applicants must submit a **motivation letter** (2 pages maximum, in PDF format) and may also include a **poster abstract** (250 words maximum, PDF format) if they wish to present a poster.
 Best abstracts will be invited to give flash talks.
 
 
