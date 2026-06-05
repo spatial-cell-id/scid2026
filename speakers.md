@@ -61,9 +61,9 @@ permalink: /speakers/
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img src="/assets/images/speakers_pic/Nathalie.jpg" alt="Jane Doe">
+    <img src="/assets/images/speakers_pic/Nathalie.jpg" alt="Nathalie Beaujean">
     <h3>Nathalie Beaujean</h3>
-    <p><em>LSlide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
+    <p><em>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
     <details>
       <summary>Abstract</summary>
       <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. This method leverages barcoded beads or nanoballs to capture RNA transcripts directly from tissue sections, allowing for sub-cellular resolution and comprehensive spatial profiling.
