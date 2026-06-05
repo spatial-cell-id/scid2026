@@ -146,7 +146,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session A (Parallel)</strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 1: Quentin Blampey:</strong> Deep learning and computational methods for spatial data analysis</div>
-                        <div class="workshop-item"><strong>WS 2: Jennifer Love:</strong> Combining RNA and DNA FISH: a case study</div>
+                        <div class="workshop-item"><strong>WS 2: Jennifer Love and Nour Bazzi:</strong> Experimental design for combining modalities in spatial transcriptomics</div>
                     </div>
                 </div>
             </div>

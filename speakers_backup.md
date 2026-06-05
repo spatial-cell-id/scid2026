@@ -5,11 +5,30 @@ permalink: /speakers/
 ---
 
 <style>
-  .speaker-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; margin-bottom: 40px; }
+  .speaker-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-bottom: 40px;
+  }
   .speaker-card { text-align: center; background: #ffffff; }
-  .speaker-card img { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
+  .speaker-card img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
   .speaker-card h3 { margin-bottom: 5px; font-size: 1.2em; }
-  .speaker-card details { text-align: left; background: #f8f9fa; padding: 12px; border-radius: 8px; margin-top: 15px; font-size: 0.9em; }
+  .speaker-card details {
+    text-align: left;
+    background: #f8f9fa;
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: 0.9em;
+  }
   .speaker-card summary { cursor: pointer; font-weight: bold; color: #007bff; }
   @media (max-width: 900px) { .speaker-grid { grid-template-columns: repeat(2, 1fr); } }
   @media (max-width: 600px) { .speaker-grid { grid-template-columns: 1fr; } }
@@ -19,38 +38,42 @@ permalink: /speakers/
 
 <div class="speaker-grid">
 
+  <!-- Nathalie Beaujean -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nathalie.jpg" alt="Nathalie Beaujean">
     <h3>Nathalie Beaujean</h3>
     <p><em>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
     <details>
       <summary>Abstract</summary>
-      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. The bioinformatics pipeline will be described, with a focus on the challenges of cell segmentation and ongoing efforts to optimize this step.</p>
+      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. This method leverages barcoded beads or nanoballs to capture RNA transcripts directly from tissue sections, allowing for sub-cellular resolution and comprehensive spatial profiling. The bioinformatics pipeline will also be described, with a focus on the challenges of cell segmentation and ongoing efforts to optimize this step and integrate single-cell data with spatial transcriptomics.</p>
     </details>
   </div>
 
+  <!-- Hugo Blanc -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/Hugo.jpg" alt="Hugo Blanc">
     <h3>Hugo Blanc</h3>
     <p><em>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</em></p>
     <details>
       <summary>Abstract</summary>
-      <p>This hands-on workshop walks researchers through the MERFISH pipeline, including coding theory, raw-data filtering, iterative per-bit normalization, pixel-based decoding, and stitching.</p>
+      <p>This hands-on workshop walks researchers and students through every step of the MERFISH pipeline, including coding theory, raw-data filtering, iterative per-bit normalization, pixel-based decoding to gene identities, quality control, and stitching.</p>
     </details>
   </div>
 
+  <!-- Quentin Blampey -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Quentin_blampey.png" alt="Quentin Blampey">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Quentin.jpg" alt="Quentin Blampey">
     <h3>Quentin Blampey</h3>
     <p><em>Deep learning and computational methods for spatial data analysis</em></p>
     <details>
       <summary>Abstract</summary>
-      <p>This talk introduces SpatialData, Sopa for image-based spatial omics segmentation, and Novae, a graph-based foundation model for spatial transcriptomics.</p>
+      <p>This talk introduces SpatialData, an open and interoperable data framework for spatial omics, Sopa for image-based spatial omics segmentation, and Novae, a graph-based foundation model for spatial transcriptomics.</p>
     </details>
   </div>
 
+  <!-- Laura Cantini -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/laura_cantin.jpg" alt="Laura Cantini">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Laura.jpg" alt="Laura Cantini">
     <h3>Laura Cantini</h3>
     <p><em>Multi-modal learning for single-cell data integration</em></p>
     <details>
@@ -59,16 +82,18 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Zayna Chaker -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/zayna.png" alt="Zayna Chaker">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Zayna.jpg" alt="Zayna Chaker">
     <h3>Zayna Chaker</h3>
-    <p><em>Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches</em></p>
+    <p><em>Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches during pregnancy</em></p>
     <details>
       <summary>Abstract</summary>
-      <p>We aim at comparing the molecular landscape of the two niches of the adult brain at subcellular resolution and find shared and distinct molecular mechanisms of adult neurogenesis during pregnancy.</p>
+      <p>By leveraging Spatial Transcriptomics, we aim at comparing the molecular landscape of the two niches of the adult brain at subcellular resolution and find shared and distinct molecular mechanisms of adult neurogenesis.</p>
     </details>
   </div>
 
+  <!-- Jonathan Enriquez -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/placeholder.jpg" alt="Jonathan Enriquez">
     <h3>Jonathan Enriquez</h3>
@@ -79,18 +104,20 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Yad Ghavi-Helm -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/Yad.jpg" alt="Yad Ghavi-Helm">
     <h3>Yad Ghavi-Helm</h3>
-    <p><em>From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity</em></p>
+    <p><em>From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity in a developing embryo</em></p>
     <details>
       <summary>Abstract</summary>
       <p>I will showcase spatial-scERA, a novel in vivo/in silico single-cell method for spatial single-cell enhancer-reporter assays designed to reconstruct the spatial activity of candidate enhancer regions.</p>
     </details>
   </div>
 
+  <!-- Jennifer Love and Nour Bazzi -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Jenny.png" alt="Jennifer Love">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Jennifer.jpg" alt="Jennifer Love and Nour Bazzi">
     <h3>Jennifer Love and Nour Bazzi</h3>
     <p><em>Experimental design for combining modalities in spatial transcriptomics</em></p>
     <details>
@@ -99,8 +126,9 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Hilde Nelissen -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Hilde_Nelissen.jpg" alt="Hilde Nelissen">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Hilde.jpg" alt="Hilde Nelissen">
     <h3>Hilde Nelissen</h3>
     <p><em>Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem</em></p>
     <details>
@@ -109,8 +137,9 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Marcelo Nollman -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nollmann.png" alt="Marcelo Nollman">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Marcelo.jpg" alt="Marcelo Nollman">
     <h3>Marcelo Nollman</h3>
     <p><em>Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</em></p>
     <details>
@@ -119,8 +148,9 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Anthony Ozier-Lafontaine -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/nthony-ozier-lafontaine.webp" alt="Anthony Ozier-Lafontaine">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Anthony.jpg" alt="Anthony Ozier-Lafontaine">
     <h3>Anthony Ozier-Lafontaine</h3>
     <p><em>Biologically interpretable spatial domain identification in spatial transcriptomics data</em></p>
     <details>
@@ -129,6 +159,7 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Sophie Pantalacci -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/Sophie.jpg" alt="Sophie Pantalacci">
     <h3>Sophie Pantalacci</h3>
@@ -139,28 +170,31 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Anna Pascual Reguant -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Anna_Pascual_Reguant.png" alt="Anna Pascual Reguant">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Anna.jpg" alt="Anna Pascual Reguant">
     <h3>Anna Pascual Reguant</h3>
-    <p><em>Spatial-omics framework for colorectal malignancy transformation</em></p>
+    <p><em>Spatial-omics framework for colorectal malignancy</em></p>
     <details>
       <summary>Abstract</summary>
       <p>I will present a spatial-omics framework to analyse colorectal malignancy transformation from cell to tissue level by integrating whole-transcriptome spatial molecular imaging, single-nucleus RNA sequencing, and digital histopathology.</p>
     </details>
   </div>
 
+  <!-- Sergio Salas -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Sergio_salas.png" alt="Sergio Salas">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Sergio.jpg" alt="Sergio Salas">
     <h3>Sergio Salas</h3>
-    <p><em>Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</em></p>
+    <p><em>Segmentation strategies for accurate transcript-cell assignment</em></p>
     <details>
       <summary>Abstract</summary>
       <p>We will go through different segmentation strategies, pros and cons, evaluation methods and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms.</p>
     </details>
   </div>
 
+  <!-- Ahilya N. Sawh -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/AHILYA_SAWH.jpg" alt="Ahilya N. Sawh">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Ahilya.jpg" alt="Ahilya N. Sawh">
     <h3>Ahilya N. Sawh</h3>
     <p><em>Chromosome acrobatics during development</em></p>
     <details>
@@ -169,6 +203,7 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Teva Vernoux -->
   <div class="speaker-card">
     <img src="{{ site.baseurl }}/assets/images/speakers_pic/placeholder.jpg" alt="Teva Vernoux">
     <h3>Teva Vernoux</h3>
@@ -179,8 +214,9 @@ permalink: /speakers/
     </details>
   </div>
 
+  <!-- Nadav Yayon -->
   <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/nadav_yayon.jpg" alt="Nadav Yayon">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nadav.jpg" alt="Nadav Yayon">
     <h3>Nadav Yayon</h3>
     <p><em>Harnessing morphological information for spatial biology analysis</em></p>
     <details>
