@@ -61,12 +61,15 @@ permalink: /speakers/
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img src="/assets/images/speaker1.png" alt="Jane Doe">
-    <h3>Dr. Jane Doe</h3>
-    <p><em>Lecture title</em></p>
+    <img src="/assets/images/speakers_pic/Nathalie.jpg" alt="Jane Doe">
+    <h3>Nathalie Beaujean</h3>
+    <p><em>LSlide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
     <details>
       <summary>Abstract</summary>
-      <p>Test text </p>
+      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. This method leverages barcoded beads or nanoballs to capture RNA transcripts directly from tissue sections, allowing for sub-cellular resolution and comprehensive spatial profiling.
+This presentation outlines the end-to-end workflow of Slide-Seq, starting from sample preparation (including cryosectioning, permeabilization, and tissue placement on specialized slides) to imaging, RNA transcript recovery and sequencing. The critical steps of staining, imaging with advanced microscopes and the importance of precise alignment between histological images and spatial transcriptomic data will be highlighted. The bioinformatics pipeline will also be described, with a focus on the challenges of cell segmentation and ongoing efforts to optimize this step and integrate single-cell data with spatial transcriptomics.
+The pipeline supports multi-resolution analysis, from 100 µm to < 1 µm, and is compatible with both fresh-frozen and FFPE samples. Applications include the study of complex biological systems such as embryos, organoids, and various tissue types (e.g., brain, lung, pancreas). 
+ </p>
     </details>
   </div>
   <div class="speaker-card">
