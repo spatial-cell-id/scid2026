@@ -1,279 +1,228 @@
 ---
 layout: single
-title: "Program"
-permalink: /program/
-author_profile: true
+title: "Speakers"
+permalink: /speakers/
 ---
 
-SCID 2026 is built around collaborative learning. Our "Round Table with Experts / Q&A / Bring Your Own Data" sessions are your chance to share your own data with bioinformatician with extensive experience in spatial transcriptomics. These sessions are designed for open discussion, where you can get feedback, troubleshoot analysis errors, and solve the practical problems of spatial transcriptomics data analysis.
+<style>
+  .speaker-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-bottom: 40px;
+  }
+  .speaker-card { text-align: center; background: #ffffff; }
+  .speaker-card img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .speaker-card h3 { margin-bottom: 5px; font-size: 1.2em; }
+  .speaker-card details {
+    text-align: left;
+    background: #f8f9fa;
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 15px;
+    font-size: 0.9em;
+  }
+  .speaker-card summary { cursor: pointer; font-weight: bold; color: #007bff; }
+  @media (max-width: 900px) { .speaker-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { .speaker-grid { grid-template-columns: 1fr; } }
+</style>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-            line-height: 1.6;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        .program-container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .day-section {
-            margin-bottom: 40px;
-            border-left: 4px solid #3498db;
-            padding-left: 20px;
-        }
-        .day-title {
-            color: #2c3e50;
-            font-size: 1.5em;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
-        .session {
-            display: table;
-            width: 100%;
-            margin-bottom: 12px;
-        }
-        .time {
-            display: table-cell;
-            width: 130px;
-            font-weight: bold;
-            color: #7f8c8d;
-            vertical-align: top;
-        }
-        .description {
-            display: table-cell;
-            vertical-align: top;
-        }
-        .lecture {
-            font-weight: bold;
-            color: #2980b9;
-        }
-        .workshop-block {
-            background-color: #f8f9fa;
-            padding: 15px;
-            border-radius: 5px;
-            margin-top: 10px;
-            border: 1px solid #e9ecef;
-        }
-        .workshop-item {
-            margin-bottom: 10px;
-        }
-        .speaker {
-            font-weight: bold;
-        }
-        .title-tbd {
-            font-style: italic;
-            color: #95a5a6;
-        }
-        .break {
-            color: #16a085;
-            font-style: italic;
-        }
-    </style>
-</head>
-<body>
-    <div class="program-container">
-        <h1>Summer School Program</h1>
-        
-        <!-- Sunday -->
-        <div class="day-section">
-            <h2 class="day-title">Sunday, September 13th</h2>
-            <div class="session">
-                <div class="time">16:00 – 18:45</div>
-                <div class="description">Participant’s arrival</div>
-            </div>
-            <div class="session">
-                <div class="time">18:45 – 19:50</div>
-                <div class="description" class="break">Dinner</div>
-            </div>
-            <div class="session">
-                <div class="time">19:50 – 20:00</div>
-                <div class="description">Welcome and General Introduction</div>
-            </div>
-            <div class="session">
-                <div class="time">20:00 – 21:30</div>
-                <div class="description">
-                    <span class="lecture">Lecture 1</span> – <span class="speaker">Anna Pascual</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">21:30 – 00:00</div>
-                <div class="description" class="break">Drinks</div>
-            </div>
-        </div>
+## Speakers
 
-        <!-- Monday -->
-        <div class="day-section">
-            <h2 class="day-title">Monday, September 14th</h2>
-            <div class="session">
-                <div class="time">07:30 – 08:45</div>
-                <div class="description">Breakfast</div>
-            </div>
-            <div class="session">
-                <div class="time">08:45 – 10:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 2</span> – <span class="speaker">Sophie Pantalacci</span>: Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">10:15 – 10:45</div>
-                <div class="description" class="break">Coffee Break</div>
-            </div>
-            <div class="session">
-                <div class="time">10:45 – 12:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 3</span> – <span class="speaker">Ahilya Sawh</span>: Chromosome acrobatics during development
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">12:15 – 14:00</div>
-                <div class="description" class="break">Lunch</div>
-            </div>
-            <div class="session">
-                <div class="time">14:00 – 15:30</div>
-                <div class="description">Round Table with Experts / Q&A / Bring Your Own Data</div>
-            </div>
-            <div class="session">
-                <div class="time">15:45 – 18:45</div>
-                <div class="description">
-                    <strong>Workshop Session A (Parallel)</strong>
-                    <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 1: Quentin Blampey:</strong> Deep learning and computational methods for spatial data analysis</div>
-                        <div class="workshop-item"><strong>WS 2: Jennifer Love:</strong> Combining RNA and DNA FISH: a case study</div>
-                    </div>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">19:30 – 20:30</div>
-                <div class="description">Dinner</div>
-            </div>
-            <div class="session">
-                <div class="time">20:30 – 22:30</div>
-                <div class="description">Poster Session I & Participant Flash Talks</div>
-            </div>
-        </div>
+<div class="speaker-grid">
 
-        <!-- Tuesday -->
-        <div class="day-section">
-            <h2 class="day-title">Tuesday, September 15th</h2>
-            <div class="session">
-                <div class="time">08:45 – 10:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 4</span> – <span class="speaker">Hilde Nelissen</span>: Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">10:45 – 12:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 5</span> – <span class="speaker">Jonathan Enriquez</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">15:45 – 18:45</div>
-                <div class="description">
-                    <strong>Workshop Session B (Parallel)</strong>
-                    <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 3: Nadav Yayon:</strong> Harnessing morphological information for spatial biology analysis</div>
-                        <div class="workshop-item"><strong>WS 4: Dario Righelli:</strong> SpatialExperiment: infrastructure in R using Bioconductor</div>
-                    </div>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">20:30 – 22:30</div>
-                <div class="description">Poster Session II & Participant Flash Talks</div>
-            </div>
-        </div>
+  <!-- Nathalie Beaujean -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nathalie.jpg" alt="Nathalie Beaujean">
+    <h3>Nathalie Beaujean</h3>
+    <p><em>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. This method leverages barcoded beads or nanoballs to capture RNA transcripts directly from tissue sections, allowing for sub-cellular resolution and comprehensive spatial profiling. The bioinformatics pipeline will also be described, with a focus on the challenges of cell segmentation and ongoing efforts to optimize this step and integrate single-cell data with spatial transcriptomics.</p>
+    </details>
+  </div>
 
-        <!-- Wednesday -->
-        <div class="day-section">
-            <h2 class="day-title">Wednesday, September 16th</h2>
-            <div class="session">
-                <div class="time">08:45 – 10:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 6</span> – <span class="speaker">Yad Ghavi Helm</span>: From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity in a developing embryo
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">10:45 – 12:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 7</span> – <span class="speaker">Nathalie Beaujean</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">15:45 – 18:45</div>
-                <div class="description">
-                    <strong>Workshop Session C (Parallel)</strong>
-                    <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 5: Helena Cornwell:</strong> <span class="title-tbd">Title TBD</span></div>
-                        <div class="workshop-item"><strong>WS 6: Sergio Salas:</strong> Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</div>
-                    </div>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">20:30 – 22:00</div>
-                <div class="description"><span class="lecture">Lecture 8</span> - <span class="speaker">Marcelo Nollman</span>: <span class="title-tbd">Title TBD</span></div>
-            </div>
-        </div>
+  <!-- Hugo Blanc -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Hugo.jpg" alt="Hugo Blanc">
+    <h3>Hugo Blanc</h3>
+    <p><em>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>This hands-on workshop walks researchers and students through every step of the MERFISH pipeline, including coding theory, raw-data filtering, iterative per-bit normalization, pixel-based decoding to gene identities, quality control, and stitching.</p>
+    </details>
+  </div>
 
-        <!-- Thursday -->
-        <div class="day-section">
-            <h2 class="day-title">Thursday, September 17th</h2>
-            <div class="session">
-                <div class="time">08:45 – 10:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 9</span> – <span class="speaker">Zayna Chaker</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">10:45 – 12:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 10</span> – <span class="speaker">Laura Cantini</span>: Multi-modal learning for single-cell data integration
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">15:45 – 18:45</div>
-                <div class="description">
-                    <strong>Workshop Session D (Parallel)</strong>
-                    <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 7: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics</div>
-                        <div class="workshop-item"><strong>WS 8: Hugo Blanc:</strong> <span class="title-tbd">Title TBD</span></div>
-                    </div>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">19:30 – 00:00</div>
-                <div class="description"><strong>Gala Dinner and Party</strong></div>
-            </div>
-        </div>
+  <!-- Quentin Blampey -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Quentin.jpg" alt="Quentin Blampey">
+    <h3>Quentin Blampey</h3>
+    <p><em>Deep learning and computational methods for spatial data analysis</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>This talk introduces SpatialData, an open and interoperable data framework for spatial omics, Sopa for image-based spatial omics segmentation, and Novae, a graph-based foundation model for spatial transcriptomics.</p>
+    </details>
+  </div>
 
-        <!-- Friday -->
-        <div class="day-section">
-            <h2 class="day-title">Friday, September 18th</h2>
-            <div class="session">
-                <div class="time">08:45 – 10:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 11</span> – <span class="speaker">Thomas Walter</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">10:45 – 12:15</div>
-                <div class="description">
-                    <span class="lecture">Lecture 12</span> – <span class="speaker">Teva Vernoux</span>: <span class="title-tbd">Title TBD</span>
-                </div>
-            </div>
-            <div class="session">
-                <div class="time">12:15 – 13:30</div>
-                <div class="description">Lunch and departure</div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+  <!-- Laura Cantini -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Laura.jpg" alt="Laura Cantini">
+    <h3>Laura Cantini</h3>
+    <p><em>Multi-modal learning for single-cell data integration</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will discuss three computational directions: (i) dimensionality reduction for multi-omics, (ii) gene network inference, and (iii) spatially-informed trajectory inference.</p>
+    </details>
+  </div>
 
+  <!-- Zayna Chaker -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Zayna.jpg" alt="Zayna Chaker">
+    <h3>Zayna Chaker</h3>
+    <p><em>Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches during pregnancy</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>By leveraging Spatial Transcriptomics, we aim at comparing the molecular landscape of the two niches of the adult brain at subcellular resolution and find shared and distinct molecular mechanisms of adult neurogenesis.</p>
+    </details>
+  </div>
+
+  <!-- Jonathan Enriquez -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/placeholder.jpg" alt="Jonathan Enriquez">
+    <h3>Jonathan Enriquez</h3>
+    <p><em>TBD</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>TBD</p>
+    </details>
+  </div>
+
+  <!-- Yad Ghavi-Helm -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Yad.jpg" alt="Yad Ghavi-Helm">
+    <h3>Yad Ghavi-Helm</h3>
+    <p><em>From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity in a developing embryo</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will showcase spatial-scERA, a novel in vivo/in silico single-cell method for spatial single-cell enhancer-reporter assays designed to reconstruct the spatial activity of candidate enhancer regions.</p>
+    </details>
+  </div>
+
+  <!-- Jennifer Love and Nour Bazzi -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Jennifer.jpg" alt="Jennifer Love and Nour Bazzi">
+    <h3>Jennifer Love and Nour Bazzi</h3>
+    <p><em>Experimental design for combining modalities in spatial transcriptomics</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>This workshop will focus on experimental design combining in situ hybridisation approaches and immunostaining to visualise different stages of the central dogma in spatial transcriptomics experiments.</p>
+    </details>
+  </div>
+
+  <!-- Hilde Nelissen -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Hilde.jpg" alt="Hilde Nelissen">
+    <h3>Hilde Nelissen</h3>
+    <p><em>Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>In this presentation, I will present our efforts to dissect the balance between stem cell maintenance and differentiation in the maize shoot apical meristem using spatial transcriptomics.</p>
+    </details>
+  </div>
+
+  <!-- Marcelo Nollman -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Marcelo.jpg" alt="Marcelo Nollman">
+    <h3>Marcelo Nollman</h3>
+    <p><em>Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will present Hi-M, a multiplexed imaging approach that combines sequential labeling, microfluidics, and high-resolution microscopy to map the 3D organization of chromatin.</p>
+    </details>
+  </div>
+
+  <!-- Anthony Ozier-Lafontaine -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Anthony.jpg" alt="Anthony Ozier-Lafontaine">
+    <h3>Anthony Ozier-Lafontaine</h3>
+    <p><em>Biologically interpretable spatial domain identification in spatial transcriptomics data</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>We will introduce Kontext, a tool designed to identify spatial domains in a biologically interpretable way and uncover tissue organization patterns.</p>
+    </details>
+  </div>
+
+  <!-- Sophie Pantalacci -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Sophie.jpg" alt="Sophie Pantalacci">
+    <h3>Sophie Pantalacci</h3>
+    <p><em>Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will highlight the challenges in annotating scRNAseq data from a tissue developing in 3D and comparing multiple samples from the same or different species.</p>
+    </details>
+  </div>
+
+  <!-- Anna Pascual Reguant -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Anna.jpg" alt="Anna Pascual Reguant">
+    <h3>Anna Pascual Reguant</h3>
+    <p><em>Spatial-omics framework for colorectal malignancy</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will present a spatial-omics framework to analyse colorectal malignancy transformation from cell to tissue level by integrating whole-transcriptome spatial molecular imaging, single-nucleus RNA sequencing, and digital histopathology.</p>
+    </details>
+  </div>
+
+  <!-- Sergio Salas -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Sergio.jpg" alt="Sergio Salas">
+    <h3>Sergio Salas</h3>
+    <p><em>Segmentation strategies for accurate transcript-cell assignment</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>We will go through different segmentation strategies, pros and cons, evaluation methods and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms.</p>
+    </details>
+  </div>
+
+  <!-- Ahilya N. Sawh -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Ahilya.jpg" alt="Ahilya N. Sawh">
+    <h3>Ahilya N. Sawh</h3>
+    <p><em>Chromosome acrobatics during development</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>My research group investigates the genetic and molecular determinants of large-scale chromosome conformations, and studies the relationships between conformation and genome function during embryonic development.</p>
+    </details>
+  </div>
+
+  <!-- Teva Vernoux -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/placeholder.jpg" alt="Teva Vernoux">
+    <h3>Teva Vernoux</h3>
+    <p><em>TBD</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>TBD</p>
+    </details>
+  </div>
+
+  <!-- Nadav Yayon -->
+  <div class="speaker-card">
+    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nadav.jpg" alt="Nadav Yayon">
+    <h3>Nadav Yayon</h3>
+    <p><em>Harnessing morphological information for spatial biology analysis</em></p>
+    <details>
+      <summary>Abstract</summary>
+      <p>I will present an overview of tools developed to use morphological information for spatial biology analysis, including Bin2Cell, MorphoFM, and TissueTag.</p>
+    </details>
+  </div>
+
+</div>
