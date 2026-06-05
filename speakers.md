@@ -16,7 +16,7 @@ permalink: /speakers/
 <div class="speaker-grid">
 
 <div class="speaker-card">
-    <img src="{{ site.baseurl }}/assets/images/speakers_pic/Nathalie.jpg" alt="Nathalie Beaujean">
+    <img src="{{ site.baseurl }}/assets/images/Nathalie.jpg" alt="Nathalie Beaujean">
     <h3>Nathalie Beaujean</h3>
     <p><em>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
     <details>
