@@ -11,198 +11,160 @@ permalink: /speakers/
   .speaker-card h3 { margin-bottom: 5px; font-size: 1.2em; }
   .speaker-card details { text-align: left; background: #f8f9fa; padding: 12px; border-radius: 8px; margin-top: 15px; font-size: 0.9em; }
   .speaker-card summary { cursor: pointer; font-weight: bold; color: #007bff; }
-  @media (max-width: 900px) { .speaker-grid { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 600px) { .speaker-grid { grid-template-columns: 1fr; } }
 </style>
-
-## Speakers
 
 <div class="speaker-grid">
 
-  <!-- Nathalie Beaujean -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Nathalie.jpg' | relative_url }}" alt="Nathalie Beaujean">
+    <img src="/scid2026/assets/images/speakers_pic/Nathalie.jpg" alt="Nathalie Beaujean">
     <h3>Nathalie Beaujean</h3>
-    <p><em>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues.</p>
+      <summary>Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</summary>
+      <p>Slide-Seq is a sequencing-based spatial transcriptomics technology that enables high-resolution mapping of gene expression within tissues. This method leverages barcoded beads or nanoballs to capture RNA transcripts directly from tissue sections, allowing for sub-cellular resolution and comprehensive spatial profiling. This presentation outlines the end-to-end workflow, from sample preparation to imaging, RNA transcript recovery and sequencing.</p>
     </details>
   </div>
 
-  <!-- Hugo Blanc -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Hugo.jpg' | relative_url }}" alt="Hugo Blanc">
+    <img src="/scid2026/assets/images/speakers_pic/Hugo.jpg" alt="Hugo Blanc">
     <h3>Hugo Blanc</h3>
-    <p><em>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>This hands-on workshop walks researchers through the MERFISH pipeline, including coding theory, raw-data filtering, iterative per-bit normalization, pixel-based decoding, and stitching.</p>
+      <summary>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</summary>
+      <p>Multiplexed Error-Robust FISH (MERFISH) resolves the expression of hundreds to thousands of RNA species directly inside intact tissues. This hands-on workshop walks researchers and students through every step of that pipeline: MERFISH coding theory, raw-data filtering, iterative per-bit normalization, pixel-based decoding to gene identities, quality control, and stitching.</p>
     </details>
   </div>
 
-  <!-- Quentin Blampey -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Quentin_blampey.png' | relative_url }}" alt="Quentin Blampey">
+    <img src="/scid2026/assets/images/speakers_pic/Quentin_blampey.png" alt="Quentin Blampey">
     <h3>Quentin Blampey</h3>
-    <p><em>Deep learning and computational methods for spatial data analysis</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>This talk introduces SpatialData, Sopa for image-based spatial omics segmentation, and Novae, a graph-based foundation model for spatial transcriptomics.</p>
+      <summary>Deep learning and computational methods for spatial data analysis</summary>
+      <p>This talk introduces three packages: SpatialData, an open and interoperable data framework; Sopa, a technology-invariant pipeline for image-based spatial omics (cell segmentation, transcript aggregation, annotation); and Novae, a graph-based foundation model for spatial transcriptomics enabling zero-shot domain inference and batch correction.</p>
     </details>
   </div>
 
-  <!-- Laura Cantini -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/laura_cantin.jpg' | relative_url }}" alt="Laura Cantini">
+    <img src="/scid2026/assets/images/speakers_pic/laura_cantin.jpg" alt="Laura Cantini">
     <h3>Laura Cantini</h3>
-    <p><em>Multi-modal learning for single-cell data integration</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will discuss three computational directions: (i) dimensionality reduction for multi-omics, (ii) gene network inference, and (iii) spatially-informed trajectory inference.</p>
+      <summary>Multi-modal learning for single-cell data integration</summary>
+      <p>Single-cell RNA sequencing is revolutionizing biology and medicine. I will discuss three computational directions: (i) dimensionality reduction to study cellular heterogeneity simultaneously from multiple omics; (ii) gene network inference to integrate various omics features; and (iii) spatially-informed trajectory inference methods to reconstruct cell dynamics.</p>
     </details>
   </div>
 
-  <!-- Zayna Chaker -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/zayna.png' | relative_url }}" alt="Zayna Chaker">
+    <img src="/scid2026/assets/images/speakers_pic/zayna.png" alt="Zayna Chaker">
     <h3>Zayna Chaker</h3>
-    <p><em>Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>We aim at comparing the molecular landscape of the two niches of the adult brain at subcellular resolution and find shared and distinct molecular mechanisms of adult neurogenesis during pregnancy.</p>
+      <summary>Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches during pregnancy</summary>
+      <p>Stem cells are the pillar of tissue repair, but the adult brain has a low regenerative capacity. By leveraging Spatial Transcriptomics and Machine Learning, we aim at comparing the molecular landscape of the two niches of the adult brain at subcellular resolution to find mechanisms of adult neurogenesis and synchronize proliferation during pregnancy.</p>
     </details>
   </div>
 
-  <!-- Jonathan Enriquez -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/placeholder.jpg' | relative_url }}" alt="Jonathan Enriquez">
+    <img src="/scid2026/assets/images/speakers_pic/placeholder.jpg" alt="Jonathan Enriquez">
     <h3>Jonathan Enriquez</h3>
-    <p><em>TBD</em></p>
     <details>
-      <summary>Abstract</summary>
+      <summary>Title to be announced</summary>
       <p>TBD</p>
     </details>
   </div>
 
-  <!-- Yad Ghavi-Helm -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Yad.jpg' | relative_url }}" alt="Yad Ghavi-Helm">
+    <img src="/scid2026/assets/images/speakers_pic/Yad.jpg" alt="Yad Ghavi-Helm">
     <h3>Yad Ghavi-Helm</h3>
-    <p><em>From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will showcase spatial-scERA, a novel in vivo/in silico single-cell method for spatial single-cell enhancer-reporter assays designed to reconstruct the spatial activity of candidate enhancer regions.</p>
+      <summary>From single-cell to spatial transcriptomics: reconstructing gene expression and enhancer activity in a developing embryo</summary>
+      <p>We developed spatial-scERA, a novel in vivo/in silico single-cell method designed to reconstruct the spatial activity of candidate enhancer regions. I will showcase how spatial-scERA works in Drosophila embryos and how single-cell OMICs, imaging and computational methods can be combined to reconstruct 3D gene expression in complex samples.</p>
     </details>
   </div>
 
-  <!-- Jennifer Love and Nour Bazzi -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Jenny.png' | relative_url }}" alt="Jennifer Love">
-    <h3>Jennifer Love and Nour Bazzi</h3>
-    <p><em>Experimental design for combining modalities in spatial transcriptomics</em></p>
+    <img src="/scid2026/assets/images/speakers_pic/Jenny.png" alt="Jennifer Love">
+    <h3>Jennifer Love & Nour Bazzi</h3>
     <details>
-      <summary>Abstract</summary>
-      <p>This workshop will focus on experimental design combining in situ hybridisation approaches and immunostaining to visualise different stages of the central dogma in spatial transcriptomics experiments.</p>
+      <summary>Experimental design for combining modalities in spatial transcriptomics</summary>
+      <p>This workshop focuses on experimental design combining in situ hybridisation and immunostaining to visualise different stages of the central dogma in spatial transcriptomics experiments. Case studies will be presented, including combining DNA and RNA FISH to study chromatin conformation and gene expression, as well as integration of chromosome painting and immunostaining.</p>
     </details>
   </div>
 
-  <!-- Hilde Nelissen -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Hilde_Nelissen.jpg' | relative_url }}" alt="Hilde Nelissen">
+    <img src="/scid2026/assets/images/speakers_pic/Hilde_Nelissen.jpg" alt="Hilde Nelissen">
     <h3>Hilde Nelissen</h3>
-    <p><em>Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>In this presentation, I will present our efforts to dissect the balance between stem cell maintenance and differentiation in the maize shoot apical meristem using spatial transcriptomics.</p>
+      <summary>Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem</summary>
+      <p>In this presentation, I will present our efforts to dissect the balance between stem cell maintenance and differentiation in the maize shoot apical meristem. We developed cell segmentation pipelines to assign transcripts to individual cells, enabling the reconstruction of transcriptional changes along developmental trajectories and identifying novel factors involved in cell fate.</p>
     </details>
   </div>
 
-  <!-- Marcelo Nollman -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Nollmann.png' | relative_url }}" alt="Marcelo Nollman">
+    <img src="/scid2026/assets/images/speakers_pic/Nollmann.png" alt="Marcelo Nollman">
     <h3>Marcelo Nollman</h3>
-    <p><em>Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will present Hi-M, a multiplexed imaging approach that combines sequential labeling, microfluidics, and high-resolution microscopy to map the 3D organization of chromatin.</p>
+      <summary>Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</summary>
+      <p>I will present Hi-M, a multiplexed imaging approach that combines sequential labeling, microfluidics, and high-resolution microscopy to map the 3D organization of chromatin. Hi-M provides nanometer-scale measurements of chromatin architecture at the single-allele level, uncovering principles of genome organization in the adult Drosophila brain.</p>
     </details>
   </div>
 
-  <!-- Anthony Ozier-Lafontaine -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/nthony-ozier-lafontaine.webp' | relative_url }}" alt="Anthony Ozier-Lafontaine">
+    <img src="/scid2026/assets/images/speakers_pic/nthony-ozier-lafontaine.webp" alt="Anthony Ozier-Lafontaine">
     <h3>Anthony Ozier-Lafontaine</h3>
-    <p><em>Biologically interpretable spatial domain identification in spatial transcriptomics data</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>We will introduce Kontext, a tool designed to identify spatial domains in a biologically interpretable way and uncover tissue organization patterns.</p>
+      <summary>Biologically interpretable spatial domain identification in spatial transcriptomics data</summary>
+      <p>Identifying spatially coherent tissue domains is a key challenge. We will introduce Kontext, a tool designed to identify spatial domains in a biologically interpretable way, illustrating how it can be used to uncover tissue organization and intercellular communication patterns across diverse biological contexts.</p>
     </details>
   </div>
 
-  <!-- Sophie Pantalacci -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Sophie.jpg' | relative_url }}" alt="Sophie Pantalacci">
+    <img src="/scid2026/assets/images/speakers_pic/Sophie.jpg" alt="Sophie Pantalacci">
     <h3>Sophie Pantalacci</h3>
-    <p><em>Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will highlight the challenges in annotating scRNAseq data from a tissue developing in 3D and comparing multiple samples from the same or different species.</p>
+      <summary>Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context</summary>
+      <p>I will highlight the challenges in annotating scRNAseq data from a tissue developing in 3D, and comparing multiple samples from the same or different species. I will discuss the choice of technology (10x genomics, Parse) and how to get a spatial annotation of the dataset (e.g., Curio Trekker).</p>
     </details>
   </div>
 
-  <!-- Anna Pascual Reguant -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Anna_Pascual_Reguant.png' | relative_url }}" alt="Anna Pascual Reguant">
+    <img src="/scid2026/assets/images/speakers_pic/Anna_Pascual_Reguant.png" alt="Anna Pascual Reguant">
     <h3>Anna Pascual Reguant</h3>
-    <p><em>Spatial-omics framework for colorectal malignancy transformation</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will present a spatial-omics framework to analyse colorectal malignancy transformation from cell to tissue level by integrating whole-transcriptome spatial molecular imaging, single-nucleus RNA sequencing, and digital histopathology.</p>
+      <summary>Spatial-omics framework for colorectal malignancy transformation</summary>
+      <p>Understanding how molecular programs and tissue architecture interact requires resolving biology across spatial scales. I will present a framework to analyse colorectal malignancy transformation by integrating whole-transcriptome spatial molecular imaging, single-nucleus RNA sequencing, and digital histopathology to capture architectural changes aligned with transcriptional programs.</p>
     </details>
   </div>
 
-  <!-- Sergio Salas -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/Sergio_salas.png' | relative_url }}" alt="Sergio Salas">
+    <img src="/scid2026/assets/images/speakers_pic/Sergio_salas.png" alt="Sergio Salas">
     <h3>Sergio Salas</h3>
-    <p><em>Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>We will go through different segmentation strategies, pros and cons, evaluation methods and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms.</p>
+      <summary>Segmentation strategies for accurate transcript-cell assignment</summary>
+      <p>Segmentation is one of the most important, yet unsolved, preprocessing steps in spatial omics. We will go through different strategies, pros and cons, evaluation methods, and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms like cellpose, segger, or troutpy.</p>
     </details>
   </div>
 
-  <!-- Ahilya N. Sawh -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/AHILYA_SAWH.jpg' | relative_url }}" alt="Ahilya N. Sawh">
+    <img src="/scid2026/assets/images/speakers_pic/AHILYA_SAWH.jpg" alt="Ahilya N. Sawh">
     <h3>Ahilya N. Sawh</h3>
-    <p><em>Chromosome acrobatics during development</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>My research group investigates the genetic and molecular determinants of large-scale chromosome conformations, and studies the relationships between conformation and genome function during embryonic development.</p>
+      <summary>Chromosome acrobatics during development</summary>
+      <p>Nuclear organization plays an important role in controlling genome functions. I will discuss how defects in genome organization are implicated in aberrant developmental states. My group investigates the genetic and molecular determinants of large-scale chromosome conformations and studies the relationships between conformation and genome function during embryonic development.</p>
     </details>
   </div>
 
-  <!-- Teva Vernoux -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/placeholder.jpg' | relative_url }}" alt="Teva Vernoux">
+    <img src="/scid2026/assets/images/speakers_pic/placeholder.jpg" alt="Teva Vernoux">
     <h3>Teva Vernoux</h3>
-    <p><em>TBD</em></p>
     <details>
-      <summary>Abstract</summary>
+      <summary>Title to be announced</summary>
       <p>TBD</p>
     </details>
   </div>
 
-  <!-- Nadav Yayon -->
   <div class="speaker-card">
-    <img src="{{ 'assets/images/speakers_pic/nadav_yayon.jpg' | relative_url }}" alt="Nadav Yayon">
+    <img src="/scid2026/assets/images/speakers_pic/nadav_yayon.jpg" alt="Nadav Yayon">
     <h3>Nadav Yayon</h3>
-    <p><em>Harnessing morphological information for spatial biology analysis</em></p>
     <details>
-      <summary>Abstract</summary>
-      <p>I will present an overview of tools developed to use morphological information for spatial biology analysis, including Bin2Cell, MorphoFM, and TissueTag.</p>
+      <summary>Harnessing morphological information for spatial biology analysis</summary>
+      <p>Recent advances create a need for computational methods that integrate imaging and molecular information. I will present several tools: Bin2Cell, for converting spatial data into object-level representations; MorphoFM, for extracting morphological features; and TissueTag, for tissue annotation combining morphology, spatial context, and molecular information.</p>
     </details>
   </div>
 
