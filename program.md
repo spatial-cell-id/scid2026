@@ -209,7 +209,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">15:45 – 18:45</div>
                 <div class="description">
-                    <strong>Workshop Session C (Parallel)</strong>
+                    <strong>Workshop Session C </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 5: Sergio Salas:</strong> Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</div>
                     </div>
