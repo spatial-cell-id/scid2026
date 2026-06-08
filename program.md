@@ -100,7 +100,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">20:00 – 21:30</div>
                 <div class="description">
-                    <span class="lecture">Lecture 1</span> – <span class="speaker">Anna Pascual</span>: <span class="title-tbd">Spatial Omics analysis of colorectal malignancy transformation from cell to tissue scale</span>
+                    <span class="lecture">Lecture 1</span> – <span class="speaker">Anna Pascual</span>: Spatial Omics analysis of colorectal malignancy transformation from cell to tissue scale
                 </div>
             </div>
             <div class="session">
@@ -203,7 +203,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">10:45 – 12:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 7</span> – <span class="speaker">Nathalie Beaujean</span>: <span class="title-tbd">Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis</span>
+                    <span class="lecture">Lecture 7</span> – <span class="speaker">Nathalie Beaujean</span>: Slide-Seq: From Sample Preparation to Spatial Transcriptome Analysis
                 </div>
             </div>
             <div class="session">
@@ -217,7 +217,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             </div>
             <div class="session">
                 <div class="time">20:30 – 22:00</div>
-                <div class="description"><span class="lecture">Lecture 8</span> - <span class="speaker">Marcelo Nollman</span>: <span class="title-tbd">Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</span></div>
+                <div class="description"><span class="lecture">Lecture 8</span> - <span class="speaker">Marcelo Nollman</span>: Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</div>
             </div>
         </div>
 
@@ -227,7 +227,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">08:45 – 10:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 9</span> – <span class="speaker">Zayna Chaker</span>: <span class="title-tbd">Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches during pregnancy</span>
+                    <span class="lecture">Lecture 9</span> – <span class="speaker">Zayna Chaker</span>: <Reshuffling the cards: Spatial transcriptomics reveal a novel compartmentalisation of adult brain stem cell niches during pregnancy
                 </div>
             </div>
             <div class="session">
@@ -242,7 +242,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session D (Parallel)</strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 6: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics</div>
-                        <div class="workshop-item"><strong>WS 7: Hugo Blanc:</strong> <span class="title-tbd">From Pixels to RNAs: a hands-on MERFISH image-processing workshop</span></div>
+                        <div class="workshop-item"><strong>WS 7: Hugo Blanc:</strong> From Pixels to RNAs: a hands-on MERFISH image-processing workshop</div>
                     </div>
                 </div>
             </div>
