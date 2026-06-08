@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Speakers"
-permalink: /speakers_/
+permalink: /speakers/
 ---
 
 <style>
