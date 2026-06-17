@@ -17,16 +17,20 @@ The event takes place at the **Centre Paul Langevin**, a facility accustomed to 
 ### How to Get There
 
 **By Train:**
-The closest railway station is **Modane** (about 8 km from Aussois). Modane is well connected by TGV from Paris, Lyon, and Torino. 
+The closest railway station is **Chambéry**, which is well-connected by direct trains from both Paris and Lyon.
 
 **Shuttle Bus / Taxi:**
-We will organize a dedicated shuttle bus from Modane station to the conference center on the arrival day (13 September) and a return shuttle on the departure day (18 September). 
+We will organize a dedicated shuttle bus from Chambéry station to the conference center.
+- Arrival (13 September): The shuttle will depart at 4:30 PM.
+- Departure (18 September): The return shuttle is scheduled for approximately 1:00 PM.
+
 *If you arrive outside of the shuttle schedule, local taxis are available at the station.*
 
 **By Plane:**
 The nearest major airports are:
+* Paris Airports (CDG/ORY): You can reach Chambéry from Paris via high-speed train (TGV) from the station located directly at Paris-Charles de Gaulle (CDG) or by connecting through central Paris stations.
 * Lyon-Saint Exupéry (LYS)
 * Geneva (GVA)
 * Turin (TRN)
 
-From these airports, you can easily reach Modane by train.
+From these airports, you can easily reach Chambéry station by train.
