@@ -19,7 +19,7 @@ The event takes place at the **Centre Paul Langevin**, a facility accustomed to 
 The closest railway station is **Modane**, which is well-connected to Lyon.
 
 The SNCF route planner/reservation system has not yet been updated with the train connection between Lyon and Modane (via Chambéry). 
-You can download the plan <a href="/assets/images/fiche_horaire.pdf" download>here</a>
+You can download the plan <a href="{{ site.baseurl }}/assets/images/fiche_horaire.pdf" download>here</a>
 
 
 **Shuttle Bus / Taxi:**
