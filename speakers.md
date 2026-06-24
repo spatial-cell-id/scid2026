@@ -161,4 +161,22 @@ permalink: /speakers/
     </details>
   </div>
 
+  <div class="speaker-card">
+    <h3>Dario Righelli</h3>
+    <p>SpatialExperiment and SpaceTrooper: unified infrastructure and quality control workflows for spatial omics data.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>ISpatial omics technologies are rapidly expanding, encompassing a broad range of platforms with different measurement principles, resolutions, and data modalities. Building reproducible and interoperable analysis workflows across these heterogeneous technologies requires common data representations capable of supporting downstream methods without being tied to a specific platform.
+
+      In this hands-on workshop, we will introduce SpatialExperiment, the Bioconductor data infrastructure designed to provide a unified representation for spatially resolved molecular data across technologies. Participants will learn the core concepts underlying standardized spatial data containers and how these abstractions enable interoperable analysis workflows within the Bioconductor ecosystem.
+      
+      Building on this general framework, we will then focus on imaging-based spatial technologies, such as MERFISH, CosMx and related approaches, which introduce additional challenges associated with high-resolution imaging, segmentation uncertainty and platform-specific technical artefacts.
+      
+      To address these aspects, we will present SpaceTrooper, a framework for quality control, visualization and exploratory analysis of imaging-based spatial datasets. Through practical examples, participants will explore strategies to assess data quality, inspect segmentation outputs, identify spatial artefacts and generate reproducible exploratory workflows while maintaining compatibility with downstream spatial analysis methods.
+      
+      By the end of the session, participants will gain an understanding of how standardized spatial data structures can support analyses across technologies, and how dedicated quality control workflows can improve robustness and interpretability in imaging-based spatial omics studies.</p>
+    </details>
+  </div>
+
+
 </div>
