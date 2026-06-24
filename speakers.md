@@ -166,7 +166,7 @@ permalink: /speakers/
     <p>SpatialExperiment and SpaceTrooper: unified infrastructure and quality control workflows for spatial omics data.</p>
     <details>
       <summary>Abstract</summary>
-      <p>ISpatial omics technologies are rapidly expanding, encompassing a broad range of platforms with different measurement principles, resolutions, and data modalities. Building reproducible and interoperable analysis workflows across these heterogeneous technologies requires common data representations capable of supporting downstream methods without being tied to a specific platform.
+      <p>Spatial omics technologies are rapidly expanding, encompassing a broad range of platforms with different measurement principles, resolutions, and data modalities. Building reproducible and interoperable analysis workflows across these heterogeneous technologies requires common data representations capable of supporting downstream methods without being tied to a specific platform.
 
       In this hands-on workshop, we will introduce SpatialExperiment, the Bioconductor data infrastructure designed to provide a unified representation for spatially resolved molecular data across technologies. Participants will learn the core concepts underlying standardized spatial data containers and how these abstractions enable interoperable analysis workflows within the Bioconductor ecosystem.
       
