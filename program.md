@@ -181,7 +181,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session B (Parallel)</strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 3: Nadav Yayon:</strong> Harnessing morphological information for spatial biology analysis</div>
-                        <div class="workshop-item"><strong>WS 4: Dario Righelli:</strong> SpatialExperiment: infrastructure in R using Bioconductor</div>
+                        <div class="workshop-item"><strong>WS 4: Dario Righelli:</strong> SpatialExperiment and SpaceTrooper: unified infrastructure and quality control workflows for spatial omics data </div>
                     </div>
                 </div>
             </div>
