@@ -150,7 +150,7 @@ permalink: /speakers/
     </details>
   </div>
 
-  <div class="speaker-card">
+  <!-- <div class="speaker-card">
     <h3>Jonathan Enriquez</h3>
     <p>Using OMICS to Decipher Cell Diversity in Space and Time.</p>
     <details>
@@ -159,7 +159,7 @@ permalink: /speakers/
       In this talk, I will present how we combine genetics, single-cell sequencing, and computational approaches to decipher how muscle diversity emerges during development. In particular, I will discuss how genetic tools can be used to 1. recover spatial information lost during cell dissociation and 2. validate lineage relationships predicted bioinformatically.
       Because these genetic approaches are powerful but extremely time-consuming, we decided to develop at Spatial Cell ID, a 3D MERFISH-based pipeline that enables direct in situ mapping of the expression of hundreds of genes. I will introduce the main image-based spatial transcriptomics approaches currently available and provide an overview of our 3D MERFISH pipeline, from probe design to image acquisition and data analysis.</p>
     </details>
-  </div>
+  </div> -->
 
   <div class="speaker-card">
     <h3>Dario Righelli</h3>
