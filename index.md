@@ -19,6 +19,8 @@ excerpt: |
 
 ---
 
+**Due to last minute cancellations we have a limited number of places left! EXTENDED DEADLINE: July 19th, 2026**
+
 This Summer School is designed to train students and researchers in the rapidly expanding field of Spatial OMICs. Beyond traditional transcriptomics, and through a blend of experimental insights and advanced data analysis, participants will learn to navigate and answer fundamental biological and computationally-related questions.
 
 - Who should attend: The program is open to all PhD students, researchers, and engineers eager to master spatially resolved technologies.
