@@ -114,14 +114,14 @@ permalink: /speakers/
     </details>
   </div>
 
-  <div class="speaker-card">
+  <!-- <div class="speaker-card">
     <h3>Hugo Blanc</h3>
     <p>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</p>
     <details>
       <summary>Abstract</summary>
       <p>Multiplexed Error-Robust FISH (MERFISH) resolves the expression of hundreds to thousands of RNA species directly inside intact tissues, but turning raw multi-round microscopy data into a spatial gene-expression map is a non-trivial image-processing problem. This hands-on workshop walks researchers and students through every step of that pipeline. Participants work through Jupyter notebooks built on the starfish ecosystem. We cover MERFISH coding theory and codebook structure, raw-data filtering, iterative per-bit normalization, pixel-based decoding to gen identities, quality control, and stitching. By the end of the session, participants will understand what each pipeline step does, why it matters, and how to adapt the workflow to their own MERFISH or related image-based spatial-transcriptomics data.</p>
     </details>
-  </div>
+  </div> -->
 
   <div class="speaker-card">
     <h3>Marcelo Nollman</h3>

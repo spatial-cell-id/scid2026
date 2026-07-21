@@ -242,7 +242,6 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session D (Parallel)</strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 6: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics</div>
-                        <div class="workshop-item"><strong>WS 7: Hugo Blanc:</strong> From Pixels to RNAs: a hands-on MERFISH image-processing workshop</div>
                     </div>
                 </div>
             </div>
