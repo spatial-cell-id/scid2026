@@ -212,6 +212,8 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session C </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 5: Sergio Salas:</strong> Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</div>
+                        <div class="workshop-item"><strong>WS 6: Arne Defauw:</strong> Scalable
+                        analysis of whole slide spatial proteomics with Harpy</div>
                     </div>
                 </div>
             </div>
@@ -241,7 +243,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                 <div class="description">
                     <strong>Workshop Session D (Parallel)</strong>
                     <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 6: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics</div>
+                        <div class="workshop-item"><strong>WS 7: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics</div>
                     </div>
                 </div>
             </div>
