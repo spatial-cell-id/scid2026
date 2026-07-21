@@ -150,6 +150,15 @@ permalink: /speakers/
     </details>
   </div>
 
+  <div class="speaker-card">
+    <h3>Yinan Wan</h3>
+    <p>Whole-embryo spatiotemporal transcriptomics at subcellular resolution.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Spatiotemporal patterns of gene expression underlie embryogenesis, yet mapping gene expression across whole embryos with both high resolution and comprehensive coverage remains a major challenge. Here, I present a whole-embryo imaging approach based on multiplexed error-robust fluorescent in situ hybridization (weMERFISH), which enables subcellular-resolution profiling of gene expression in intact zebrafish embryos. By integrating these data with single-cell multiomics, we generated a spatial atlas of gene expression and chromatin accessibility across the entire embryo. This framework reveals how complex expression patterns arise from combinations of tissue-specific regulatory elements, how global transcriptional changes align with cellular maturation and morphogenesis, and how sharp tissue boundaries form through changes in gene expression rather than cell sorting. Together, this work provides a scalable approach for whole-organism spatial transcriptomics and new insights into the regulation and dynamics of embryonic development. Building on these advances, my future research will focus on the developing nervous system, with particular emphasis on the zebrafish retina as a model for understanding how neural tissues achieve robust organization despite variability in individual cell behaviors.</p>
+    </details>
+  </div>
+
   <!-- <div class="speaker-card">
     <h3>Jonathan Enriquez</h3>
     <p>Using OMICS to Decipher Cell Diversity in Space and Time.</p>
@@ -160,6 +169,8 @@ permalink: /speakers/
       Because these genetic approaches are powerful but extremely time-consuming, we decided to develop at Spatial Cell ID, a 3D MERFISH-based pipeline that enables direct in situ mapping of the expression of hundreds of genes. I will introduce the main image-based spatial transcriptomics approaches currently available and provide an overview of our 3D MERFISH pipeline, from probe design to image acquisition and data analysis.</p>
     </details>
   </div> -->
+
+
 
   <div class="speaker-card">
     <h3>Dario Righelli</h3>
