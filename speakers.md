@@ -191,7 +191,7 @@ permalink: /speakers/
 
 
  <div class="speaker-card">
-    <h3>DArne Defauw</h3>
+    <h3>Darne Defauw</h3>
     <p> Scalable and Interactive Spatial Omics Analysis with Harpy.</p>
     <details>
       <summary>Abstract</summary>
