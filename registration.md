@@ -6,7 +6,7 @@ permalink: /registration/
 Only **50 places** are available for the Summer School.
 ~~Applications are open from April 1st to May 31st, 2026.~~
 
-**Due to last minute cancellations we have a limited number of places left! EXTENDED DEADLINE: July 22nd at 5PM, 2026**.
+**Due to last minute cancellations we have a limited number of places left! EXTENDED DEADLINE: July 22nd, 2026 at 5PM**.
 
 Applicants must submit a **motivation letter** (2 pages maximum, in PDF format) and may also include a **poster abstract** (250 words maximum, PDF format) if they wish to present a poster.
 Best abstracts will be invited to give flash talks.
