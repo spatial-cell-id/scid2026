@@ -212,8 +212,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                     <strong>Workshop Session C </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 5: Sergio Salas:</strong> Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</div>
-                        <div class="workshop-item"><strong>WS 6: Arne Defauw:</strong> Scalable
-                        analysis of whole slide spatial proteomics with Harpy</div>
+                        <div class="workshop-item"><strong>WS 6: Arne Defauw:</strong> Scalable and Interactive Spatial Omics Analysis with Harpy</div>
                     </div>
                 </div>
             </div>

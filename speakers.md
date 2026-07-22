@@ -190,4 +190,18 @@ permalink: /speakers/
   </div>
 
 
+ <div class="speaker-card">
+    <h3>DArne Defauw</h3>
+    <p> Scalable and Interactive Spatial Omics Analysis with Harpy.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Imaging-based spatial omics combines molecular measurements with detailed tissue morphology, producing rich datasets that can span gigapixel whole-slide images and millions of cells. Initially developed for the scalable analysis of whole-slide spatial proteomics data, Harpy has since expanded to support both spatial proteomics and transcriptomics. Harpy is a Python package that builds on SpatialData and integrates with the scverse ecosystem.
+
+      In this workshop, participants will learn how Harpy and napari-harpy connect large-scale computation with interactive visualization. Through hands-on examples, they will explore multiplexed images in napari, apply pixel-level clustering, assess and refine cell segmentations, perform quality control, and generate analysis-ready single-cell representations.
+
+      Particular attention will be given to human-in-the-loop analysis, in which automated methods are combined with expert knowledge, visual inspection, and iterative refinement. Participants will gain practical experience with an integrated workflow for scalable, interactive, and biologically informed spatial omics analysis.</p>
+    </details>
+  </div> 
+
+
 </div>
