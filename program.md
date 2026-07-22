@@ -265,7 +265,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">10:45 – 12:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 12</span> – <span class="speaker">Speaker TBD</span>: <span class="title-tbd">Title TBD</span>
+                    <div class="description">Closing Remarks, wrap-up and discussionn</div>
                 </div>
             </div>
             <div class="session">
