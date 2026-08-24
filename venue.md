@@ -23,9 +23,9 @@ You can download the plan <a href="{{ site.baseurl }}/assets/images/fiche_horair
 
 
 **Shuttle Bus / Taxi:**
-We will organize a dedicated shuttle bus from Modane station to the conference center.
-- Outbound: Departs Modane at 4:30 PM.
-- Return: Departs Aussois around 1:00 PM.
+We will organize a dedicated shuttle bus from Chambéry station to the conference center.
+- Outbound: Departs Chambéry at 2:30 PM (we will wait for the TER train from Lyon arriving at 2:16 PM)
+- Return: Departs Aussois at 1:00 PM.
 
 *If you arrive outside of the shuttle schedule, local taxis are available at the station.*
 

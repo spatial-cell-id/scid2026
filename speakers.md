@@ -69,14 +69,14 @@ permalink: /speakers/
     </details>
   </div>
 
-  <div class="speaker-card">
+  <!-- <div class="speaker-card">
     <h3>Sergio Salas</h3>
     <p>Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</p>
     <details>
       <summary>Abstract</summary>
       <p>Segmentation is one of the most important, yet unsolved, preprocessing steps in spatial omics data analysis. We will go through different segmentation strategies, pros and cons, evaluation methods and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms, using tools such as cellpose, segger or troutpy.</p>
     </details>
-  </div>
+  </div> -->
 
   <div class="speaker-card">
     <h3>Sophie Pantalacci</h3>
