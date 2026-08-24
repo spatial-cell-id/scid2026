@@ -151,7 +151,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">15:45 – 18:45</div>
                 <div class="description">
-                    <strong>Workshop Session A (Parallel)</strong>
+                    <strong>Workshop Session A </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 1: Quentin Blampey:</strong> Deep learning and computational methods for spatial data analysis <span class="location">(salle Scolette)</span></div>
                     </div>
@@ -260,7 +260,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">15:45 – 18:45</div>
                 <div class="description">
-                    <strong>Workshop Session C</strong>
+                    <strong>Workshop Session C (Parallel) </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 4: Arne Defauw:</strong> Scalable and Interactive Spatial Omics Analysis with Harpy <span class="location">(salle Scolette)</span></div>
                         <div class="workshop-item"><strong>WS 5: Jennifer Love and Nour Bazzi:</strong> Experimental design for combining modalities in spatial transcriptomics <span class="location">(salle Norma)</span></div>
@@ -315,7 +315,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">15:45 – 18:45</div>
                 <div class="description">
-                    <strong>Workshop Session D (Parallel)</strong>
+                    <strong>Workshop Session D </strong>
                     <div class="workshop-block">
                         <div class="workshop-item"><strong>WS 6: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics <span class="location">(salle Scolette)</span></div>
                     </div>
