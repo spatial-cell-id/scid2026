@@ -232,7 +232,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">08:45 – 10:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 6</span> – <span class="speaker">Sophie Pantalacci</span>: Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context <span class="location">(salle Parrachée)</span>
+                    <span class="lecture">Lecture 8</span> – <span class="speaker">Thomas Walter</span>: <span class="title-tbd">Title TBD</span> <span class="location">(salle Parrachée)</span>
                 </div>
             </div>
             <div class="session">
@@ -287,7 +287,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">08:45 – 10:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 8</span> – <span class="speaker">Thomas Walter</span>: <span class="title-tbd">Title TBD</span> <span class="location">(salle Parrachée)</span>
+                    <span class="lecture">Lecture 6</span> – <span class="speaker">Sophie Pantalacci</span>: Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context <span class="location">(salle Parrachée)</span>
                 </div>
             </div>
             <div class="session">
