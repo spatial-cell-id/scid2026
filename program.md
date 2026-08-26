@@ -317,7 +317,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                 <div class="description">
                     <strong>Workshop Session D </strong>
                     <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 6: Laura Cantini and Anthony Ozier-Lafontaine:</strong> Biologically interpretable spatial domain identification in spatial transcriptomics data</span></div>
+                        <div class="workshop-item"><strong>WS 6: Laura Cantini and Anthony Ozier-Lafontaine:</strong> Biologically interpretable spatial domain identification in spatial transcriptomics data <span class="location">(salle Scolette)</span></div>
                     </div>
                 </div>
             </div>
