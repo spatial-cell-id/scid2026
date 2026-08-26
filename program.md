@@ -232,7 +232,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
             <div class="session">
                 <div class="time">08:45 – 10:15</div>
                 <div class="description">
-                    <span class="lecture">Lecture 6</span> – <span class="speaker">Thomas Walter</span>: <span class="title-tbd">Title TBD</span> <span class="location">(salle Parrachée)</span>
+                    <span class="lecture">Lecture 6</span> – <span class="speaker">Thomas Walter</span>: Computational Methods for Linking Morphological Phenotypes and Spatial Gene Expression <span class="location">(salle Parrachée)</span>
                 </div>
             </div>
             <div class="session">
@@ -317,7 +317,7 @@ SCID 2026 is built around collaborative learning. Our "Round Table with Experts 
                 <div class="description">
                     <strong>Workshop Session D </strong>
                     <div class="workshop-block">
-                        <div class="workshop-item"><strong>WS 6: Laura Cantini:</strong> STORIES: Cell trajectory inference in spatial transcriptomics <span class="location">(salle Scolette)</span></div>
+                        <div class="workshop-item"><strong>WS 6: Laura Cantini and Anthony Ozier-Lafontaine:</strong> Biologically interpretable spatial domain identification in spatial transcriptomics data</span></div>
                     </div>
                 </div>
             </div>

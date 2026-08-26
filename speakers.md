@@ -204,4 +204,23 @@ permalink: /speakers/
   </div> 
 
 
+
+ <div class="speaker-card">
+    <h3>Thomas Walter</h3>
+    <p> Computational Methods for Linking Morphological Phenotypes and Spatial Gene Expression.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Spatial transcriptomics provides molecular information while preserving the spatial organization of tissues, creating new opportunities for linking gene expression to morphological phenotypes observed in microscopy images. 
+
+      In this lecture, I will first introduce a few basic concepts from computer vision and deep learning that are particularly relevant for spatial omics. I will then present computational methods operating at different spatial scales and for different technologies. Imaging-based spatial transcriptomics (IST) enables high-resolution mapping of RNA molecules within tissues, but its effective use critically depends on accurate cell segmentation to assign transcripts to individual cells. I will present RNA2seg, a segmentation method trained on more than four million cells from MERFISH and CosMx datasets spanning seven organs. RNA2seg integrates RNA point clouds with available membrane and nuclear stainings and is trained using a teacher–student strategy. Validation on manually annotated datasets demonstrates improved performance over existing methods, including in zero-shot and few-shot scenarios.
+
+      I will next consider approaches that link histological morphology to molecular measurements obtained from selected spatial regions of tissue sections. Using recent work on cancer subtype prediction, I will show how bulk RNA sequencing of macrodissected, morphologically homogeneous regions can provide spatially anchored molecular labels for training image-based predictive models. Applying these models across entire tissue sections reveals intratumoral subtype heterogeneity that is associated with worse prognosis, illustrating how computational analysis of morphology can connect spatial molecular variation to clinically relevant outcomes.
+
+      Finally, I will focus on sequence-based spatial transcriptomics (SST), which offers transcriptome-wide measurements at lower spatial resolution. I will present sCellST and HEDeST, which investigate to what extent spatial gene expression profiles and fine-grained cell types can be predicted from morphological phenotypes captured in routinely acquired H&E images. I will conclude with LEMON, a foundation model trained on single-nucleus H&E images, designed to provide representations of nuclear morphology that facilitate integration with spatial transcriptomics measurements.
+
+      Together, these examples illustrate how computer vision can be used to connect tissue morphology and spatial molecular information across scales, from clinically relevant tissue heterogeneity to spatial gene expression and individual cells..</p>
+    </details>
+  </div> 
+
+
 </div>
