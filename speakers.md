@@ -133,7 +133,7 @@ permalink: /speakers/
   </div>
 
   <div class="speaker-card">
-    <h3>Anthony Ozier-Lafontaine</h3>
+    <h3>Laura Cantini and Anthony Ozier-Lafontaine</h3>
     <p>Biologically interpretable spatial domain identification in spatial transcriptomics data.</p>
     <details>
       <summary>Abstract</summary>
