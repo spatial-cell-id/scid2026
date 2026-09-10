@@ -34,15 +34,6 @@ permalink: /speakers/
   </div>
 
   <div class="speaker-card">
-    <h3>Anna Pascual Reguant</h3>
-    <p>Spatial Omics analysis of colorectal malignancy transformation from cell to tissue scale</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Understanding how molecular programs and tissue architecture interact during cancer development requires technologies that resolve biology across spatial scales. I will present a spatial-omics framework to analyse colorectal malignancy transformation from cell to tissue level by integrating whole-transcriptome spatial molecular imaging, single-nucleus RNA sequencing, and digital histopathology. The 24 datasets represent the colorectal cancerization continuum within intact human tissues, from healthy colons to very early hyperplastic lesions to adenomas, to carcinomas and to metastatic spread reaching the draining lymph nodes and the liver. To interpret these data, we implement spatial-centric analytical strategies combining metrics of tissue organization (e.g. cellular density and entropy), trajectory inference, and niche modelling that quantitatively capture architectural changes aligned with histopathology and transcriptional programs. This framework reveals emergent spatial patterns, including rare “transition crypts” detectable only through large-scale continuous tissue analysis, and spatially restricted molecular and cellular programs associated with metastatic dissemination. Ongoing cohort expansion and integration of orthogonal modalities—including spatial proteomics, post-translational modifications, and genomic characterization—enable cross-platform validation and provide a scalable analytical foundation for studying tissue transformation at unprecedented resolution.</p>
-    </details>
-  </div>
-
-  <div class="speaker-card">
     <h3>Hilde Nelissen</h3>
     <p>Linking Spatial Context to Cell Fate: Trajectories in the Maize Shoot Apical Meristem</p>
     <details>
@@ -69,30 +60,12 @@ permalink: /speakers/
     </details>
   </div>
 
-  <!-- <div class="speaker-card">
-    <h3>Sergio Salas</h3>
-    <p>Segmentation strategies for accurate transcript-cell assignment in image-based spatial transcriptomics data</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Segmentation is one of the most important, yet unsolved, preprocessing steps in spatial omics data analysis. We will go through different segmentation strategies, pros and cons, evaluation methods and learn how to apply and assess the outcome of state-of-the-art segmentation algorithms, using tools such as cellpose, segger or troutpy.</p>
-    </details>
-  </div> -->
-
   <div class="speaker-card">
     <h3>Sophie Pantalacci</h3>
     <p>Challenges of annotating and comparing scRNAseq datasets in a spatio-temporal context</p>
     <details>
       <summary>Abstract</summary>
       <p>I will highlight the challenges in annotating scRNAseq data from a tissue developing in 3D, and comparing multiple samples from the same or different species. I will also discuss the choice of the technology (10x genomics, Parse) and a technology which can be coupled to the latter to get a spatial annotation of the dataset (e.g., Curio Trekker).</p>
-    </details>
-  </div>
-
-  <div class="speaker-card">
-    <h3>Nadav Yayon</h3>
-    <p>Harnessing morphological information for spatial biology analysis</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Recent advances in spatial omics technologies are producing increasingly complex multimodal datasets, creating a need for computational methods that integrate imaging and molecular information. Morphology is often the shared layer of information between many spatial technologies and can therefore serve as a useful basis for integration and interpretation. In this workshop, I will present a practical overview of several tools we developed to use morphological information for spatial biology analysis. We will begin with Bin2Cell, a framework for converting binned spatial transcriptomics data into object-level representations for segmentation, downstream analysis, and integration with single-cell reference atlases. We will then introduce MorphoFM, a framework currently under development for extracting cellular and neighbourhood morphological features from spatial imaging data. Finally, we will demonstrate TissueTag, a server friendly platform for tissue annotation that combines morphology, spatial context, and molecular information to support tissue interpretation across datasets. The session will focus on practical applications, methodological considerations and limitations of these approaches into spatial biology workflows.</p>
     </details>
   </div>
 
@@ -114,21 +87,47 @@ permalink: /speakers/
     </details>
   </div>
 
-  <!-- <div class="speaker-card">
-    <h3>Hugo Blanc</h3>
-    <p>From Pixels to RNAs: a hands-on MERFISH image-processing workshop</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Multiplexed Error-Robust FISH (MERFISH) resolves the expression of hundreds to thousands of RNA species directly inside intact tissues, but turning raw multi-round microscopy data into a spatial gene-expression map is a non-trivial image-processing problem. This hands-on workshop walks researchers and students through every step of that pipeline. Participants work through Jupyter notebooks built on the starfish ecosystem. We cover MERFISH coding theory and codebook structure, raw-data filtering, iterative per-bit normalization, pixel-based decoding to gen identities, quality control, and stitching. By the end of the session, participants will understand what each pipeline step does, why it matters, and how to adapt the workflow to their own MERFISH or related image-based spatial-transcriptomics data.</p>
-    </details>
-  </div> -->
-
   <div class="speaker-card">
     <h3>Marcelo Nollman</h3>
     <p>Spatial genomics by chromatin tracing: linking transcription to 3D genome organization</p>
     <details>
       <summary>Abstract</summary>
       <p>Understanding how spatial genome organization relates to gene regulation remains a central challenge in cell biology. Recent advances in multiplexed imaging now enable the simultaneous visualization of many molecular species in single cells, overcoming the spectral limitations of conventional fluorescence microscopy. In this talk, I will present Hi-M, a multiplexed imaging approach that combines sequential labeling, microfluidics, and high-resolution microscopy to map the three-dimensional organization of chromatin together with transcriptional activity in intact tissues and organisms. Hi-M provides nanometer-scale measurements of chromatin architecture at the single-allele level while preserving spatial and cellular context. I will first describe the methodological principles underlying Hi-M and recent developments that extend its scalability and analytical power. I will then illustrate how this approach can uncover new principles of genome organization using two examples. In the adult Drosophila brain, multiplexed chromatin tracing reveals how enhancer–promoter interactions are organized across neuronal cell types, showing that spatial proximity defines a permissive regulatory state but does not quantitatively predict transcriptional output. In parallel, large-scale analyses of chromatin folding across tissues demonstrate that genome architecture can be described by a limited repertoire of recurrent structural motifs, whose combinatorial usage varies across cell types and disease states. Together, these results highlight how multiplexed imaging approaches such as Hi-M provide a direct and quantitative link between genome structure and function in single cells. More broadly, they illustrate how spatial genomics can move beyond descriptive maps to uncover the principles governing gene regulation in complex biological systems.</p>
+    </details>
+  </div>
+
+  <div class="speaker-card">
+    <h3>Yinan Wan</h3>
+    <p>Whole-embryo spatiotemporal transcriptomics at subcellular resolution.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Spatiotemporal patterns of gene expression underlie embryogenesis, yet mapping gene expression across whole embryos with both high resolution and comprehensive coverage remains a major challenge. Here, I present a whole-embryo imaging approach based on multiplexed error-robust fluorescent in situ hybridization (weMERFISH), which enables subcellular-resolution profiling of gene expression in intact zebrafish embryos. By integrating these data with single-cell multiomics, we generated a spatial atlas of gene expression and chromatin accessibility across the entire embryo. This framework reveals how complex expression patterns arise from combinations of tissue-specific regulatory elements, how global transcriptional changes align with cellular maturation and morphogenesis, and how sharp tissue boundaries form through changes in gene expression rather than cell sorting. Together, this work provides a scalable approach for whole-organism spatial transcriptomics and new insights into the regulation and dynamics of embryonic development. Building on these advances, my future research will focus on the developing nervous system, with particular emphasis on the zebrafish retina as a model for understanding how neural tissues achieve robust organization despite variability in individual cell behaviors.</p>
+    </details>
+  </div>
+
+  <div class="speaker-card">
+    <h3>Thomas Walter</h3>
+    <p> Computational Methods for Linking Morphological Phenotypes and Spatial Gene Expression.</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Spatial transcriptomics provides molecular information while preserving the spatial organization of tissues, creating new opportunities for linking gene expression to morphological phenotypes observed in microscopy images. 
+
+      In this lecture, I will first introduce a few basic concepts from computer vision and deep learning that are particularly relevant for spatial omics. I will then present computational methods operating at different spatial scales and for different technologies. Imaging-based spatial transcriptomics (IST) enables high-resolution mapping of RNA molecules within tissues, but its effective use critically depends on accurate cell segmentation to assign transcripts to individual cells. I will present RNA2seg, a segmentation method trained on more than four million cells from MERFISH and CosMx datasets spanning seven organs. RNA2seg integrates RNA point clouds with available membrane and nuclear stainings and is trained using a teacher–student strategy. Validation on manually annotated datasets demonstrates improved performance over existing methods, including in zero-shot and few-shot scenarios.
+
+      I will next consider approaches that link histological morphology to molecular measurements obtained from selected spatial regions of tissue sections. Using recent work on cancer subtype prediction, I will show how bulk RNA sequencing of macrodissected, morphologically homogeneous regions can provide spatially anchored molecular labels for training image-based predictive models. Applying these models across entire tissue sections reveals intratumoral subtype heterogeneity that is associated with worse prognosis, illustrating how computational analysis of morphology can connect spatial molecular variation to clinically relevant outcomes.
+
+      Finally, I will focus on sequence-based spatial transcriptomics (SST), which offers transcriptome-wide measurements at lower spatial resolution. I will present sCellST and HEDeST, which investigate to what extent spatial gene expression profiles and fine-grained cell types can be predicted from morphological phenotypes captured in routinely acquired H&E images. I will conclude with LEMON, a foundation model trained on single-nucleus H&E images, designed to provide representations of nuclear morphology that facilitate integration with spatial transcriptomics measurements.
+
+      Together, these examples illustrate how computer vision can be used to connect tissue morphology and spatial molecular information across scales, from clinically relevant tissue heterogeneity to spatial gene expression and individual cells..</p>
+    </details>
+  </div> 
+
+  <div class="speaker-card">
+    <h3>Nadav Yayon</h3>
+    <p>Harnessing morphological information for spatial biology analysis</p>
+    <details>
+      <summary>Abstract</summary>
+      <p>Recent advances in spatial omics technologies are producing increasingly complex multimodal datasets, creating a need for computational methods that integrate imaging and molecular information. Morphology is often the shared layer of information between many spatial technologies and can therefore serve as a useful basis for integration and interpretation. In this workshop, I will present a practical overview of several tools we developed to use morphological information for spatial biology analysis. We will begin with Bin2Cell, a framework for converting binned spatial transcriptomics data into object-level representations for segmentation, downstream analysis, and integration with single-cell reference atlases. We will then introduce MorphoFM, a framework currently under development for extracting cellular and neighbourhood morphological features from spatial imaging data. Finally, we will demonstrate TissueTag, a server friendly platform for tissue annotation that combines morphology, spatial context, and molecular information to support tissue interpretation across datasets. The session will focus on practical applications, methodological considerations and limitations of these approaches into spatial biology workflows.</p>
     </details>
   </div>
 
@@ -151,28 +150,6 @@ permalink: /speakers/
   </div>
 
   <div class="speaker-card">
-    <h3>Yinan Wan</h3>
-    <p>Whole-embryo spatiotemporal transcriptomics at subcellular resolution.</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Spatiotemporal patterns of gene expression underlie embryogenesis, yet mapping gene expression across whole embryos with both high resolution and comprehensive coverage remains a major challenge. Here, I present a whole-embryo imaging approach based on multiplexed error-robust fluorescent in situ hybridization (weMERFISH), which enables subcellular-resolution profiling of gene expression in intact zebrafish embryos. By integrating these data with single-cell multiomics, we generated a spatial atlas of gene expression and chromatin accessibility across the entire embryo. This framework reveals how complex expression patterns arise from combinations of tissue-specific regulatory elements, how global transcriptional changes align with cellular maturation and morphogenesis, and how sharp tissue boundaries form through changes in gene expression rather than cell sorting. Together, this work provides a scalable approach for whole-organism spatial transcriptomics and new insights into the regulation and dynamics of embryonic development. Building on these advances, my future research will focus on the developing nervous system, with particular emphasis on the zebrafish retina as a model for understanding how neural tissues achieve robust organization despite variability in individual cell behaviors.</p>
-    </details>
-  </div>
-
-  <!-- <div class="speaker-card">
-    <h3>Jonathan Enriquez</h3>
-    <p>Using OMICS to Decipher Cell Diversity in Space and Time.</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>In our lab, we study how the architecture of the locomotor system is established during development and maintained throughout adult life. A central question in our research is how cellular diversity is generated in space and time to build a functional locomotor system.
-      In this talk, I will present how we combine genetics, single-cell sequencing, and computational approaches to decipher how muscle diversity emerges during development. In particular, I will discuss how genetic tools can be used to 1. recover spatial information lost during cell dissociation and 2. validate lineage relationships predicted bioinformatically.
-      Because these genetic approaches are powerful but extremely time-consuming, we decided to develop at Spatial Cell ID, a 3D MERFISH-based pipeline that enables direct in situ mapping of the expression of hundreds of genes. I will introduce the main image-based spatial transcriptomics approaches currently available and provide an overview of our 3D MERFISH pipeline, from probe design to image acquisition and data analysis.</p>
-    </details>
-  </div> -->
-
-
-
-  <div class="speaker-card">
     <h3>Dario Righelli</h3>
     <p>SpatialExperiment and SpaceTrooper: unified infrastructure and quality control workflows for spatial omics data.</p>
     <details>
@@ -189,8 +166,7 @@ permalink: /speakers/
     </details>
   </div>
 
-
- <div class="speaker-card">
+  <div class="speaker-card">
     <h3>Arne Defauw</h3>
     <p> Scalable and Interactive Spatial Omics Analysis with Harpy.</p>
     <details>
@@ -202,25 +178,5 @@ permalink: /speakers/
       Particular attention will be given to human-in-the-loop analysis, in which automated methods are combined with expert knowledge, visual inspection, and iterative refinement. Participants will gain practical experience with an integrated workflow for scalable, interactive, and biologically informed spatial omics analysis.</p>
     </details>
   </div> 
-
-
-
- <div class="speaker-card">
-    <h3>Thomas Walter</h3>
-    <p> Computational Methods for Linking Morphological Phenotypes and Spatial Gene Expression.</p>
-    <details>
-      <summary>Abstract</summary>
-      <p>Spatial transcriptomics provides molecular information while preserving the spatial organization of tissues, creating new opportunities for linking gene expression to morphological phenotypes observed in microscopy images. 
-
-      In this lecture, I will first introduce a few basic concepts from computer vision and deep learning that are particularly relevant for spatial omics. I will then present computational methods operating at different spatial scales and for different technologies. Imaging-based spatial transcriptomics (IST) enables high-resolution mapping of RNA molecules within tissues, but its effective use critically depends on accurate cell segmentation to assign transcripts to individual cells. I will present RNA2seg, a segmentation method trained on more than four million cells from MERFISH and CosMx datasets spanning seven organs. RNA2seg integrates RNA point clouds with available membrane and nuclear stainings and is trained using a teacher–student strategy. Validation on manually annotated datasets demonstrates improved performance over existing methods, including in zero-shot and few-shot scenarios.
-
-      I will next consider approaches that link histological morphology to molecular measurements obtained from selected spatial regions of tissue sections. Using recent work on cancer subtype prediction, I will show how bulk RNA sequencing of macrodissected, morphologically homogeneous regions can provide spatially anchored molecular labels for training image-based predictive models. Applying these models across entire tissue sections reveals intratumoral subtype heterogeneity that is associated with worse prognosis, illustrating how computational analysis of morphology can connect spatial molecular variation to clinically relevant outcomes.
-
-      Finally, I will focus on sequence-based spatial transcriptomics (SST), which offers transcriptome-wide measurements at lower spatial resolution. I will present sCellST and HEDeST, which investigate to what extent spatial gene expression profiles and fine-grained cell types can be predicted from morphological phenotypes captured in routinely acquired H&E images. I will conclude with LEMON, a foundation model trained on single-nucleus H&E images, designed to provide representations of nuclear morphology that facilitate integration with spatial transcriptomics measurements.
-
-      Together, these examples illustrate how computer vision can be used to connect tissue morphology and spatial molecular information across scales, from clinically relevant tissue heterogeneity to spatial gene expression and individual cells..</p>
-    </details>
-  </div> 
-
 
 </div>
